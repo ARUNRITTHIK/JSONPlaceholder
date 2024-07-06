@@ -1,5 +1,1207 @@
 {
-    "posts": [
-        { "id": 1, "title": "learn json-server", "author": "Mrinmay Mukherjee" }
-    ]
+    "en_us": [
+        {
+            "faq_vw:answer:can_i_add_an_address_in_another_country_than_the_original_country_shipping": {
+              "translation": "At this time, all addresses must be within the same country as the original address in your HP account. For example, if the account was created with a shipping address in the United States, all additional shipping addresses must also be within the United States."
+            },
+            "faq_vw:answer:can_i_break_up_my_printers_into_separate_bills_billing": {
+              "translation": "Yes, you can. To move a printer into a separate bill, unclaim the printer to your account and create a brand new HP account. Add the printer to that new account. After doing this, a different invoice will be created for this printer, with an independent billing cycle."
+            },
+            "faq_vw:answer:can_i_cancel_or_change_my_paper_plan": {
+              "translation": "Don't worry if your printing needs to change, you can easily change or cancel your paper plan anytime<sup>2<\/sup> without additional fees; however your paper plan must always match your ink plan level (100 pages of paper for your 100-page ink plan<sup>4<\/sup>).  Cancelling your paper plan will not affect your ink plan; however, if you cancel your ink plan, it will automatically cancel your paper plan."
+            },
+            "faq_vw:answer:can_i_cancel_prepay_and_will_i_receive_a_refund": {
+              "translation": "Yes, you can cancel Prepay. If you cancel Prepay, your remaining Prepay balance will be used for the services for your printer until it's fully depleted, before charges are billed to your credit card or other payment methods on file.  <br> <br>Unused portions of your Prepay balance may be refunded. You have the option to transfer the unused balance to a new Printer Subscription in your Service Account, or receive a refund, less any applicable discounts. For any questions, call HP Customer Support."
+            },
+            "faq_vw:answer:can_i_change_the_address_once_it_is_entered_shipping": {
+              "translation": "You can update or change shipping addresses in your account dashboard. Please note that if a shipment has already shipped prior to an update, it will be delivered to the previous address on file."
+            },
+            "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account": {
+              "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printer.<br><br>Based on the address you provided during the printer setup or from your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it."
+            },
+            "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account_shipping": {
+              "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printers.<br><br>Based on the address you provided during the printer setup or from your account Dashboard, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it.<br>"
+            },
+            "faq_vw:answer:can_i_prepay_for_an_additional_printer_in_my_hp_admin_account": {
+              "translation": "Yes, you can prepay for an additional printer in your HP Admin dashboard. Your Prepay amount will be calculated based on the plan you choose for the specific printer. Prepay is for a specific printer subscription, so you can’t cover charges for a different printer, using the prepaid balance from another printer, even within the same Admin account."
+            },
+            "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
+              "translation": "From the moment you install the first service cartridges received with your Welcome Kit, all following cartridges received will be subscription cartridges.<br><br>If you cancel the service, even if the subscription cartridges provided with your subscription are not empty, they will stop working in your printer and you will have to replace all of them with standard cartridges."
+            },
+            "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer": {
+              "translation": "<p>If you cancel Instant Ink on your printer, the HP Instant Ink subscription cartridges provided with your subscription will stop working in your printer even if they are not empty. You will have to replace all of them with traditional cartridges.<\/p>"
+            },
+            "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer_enroll": {
+              "translation": "<p>From the moment you insert the first service cartridges received with your Welcome Package, all following cartridges received will be Subscription Cartridges.<p><br><p>If you cancel the Service, even if the Subscription Cartridges provided with your subscription are not empty, they will stop working in your printer and you will have to replace all of them with standard cartridges.<\/p>"
+            },
+            "faq_vw:answer:can_i_use_the_paper_i_receive_for_non_printing_use": {
+              "translation": "No. The paper we send you is for printing purposes only.  If you need extra paper for personal use (i.e. for usage other than printing), you can purchase additional sets of {{lowestAdditionalSheetsQty}} sheets for {{lowestAdditionalSheetsPrice}}\/set, up to {{highestAdditionalSheetsQty}} sheets ({{additionalSheetsSetPages}} sets) per month in the Instant Ink dashboard.  You can change the number of additional sets you order throughout your billing cycle, up to {{maxAddons}} times per billing period.  These sheets will not count towards your printing plan, so we recommend that you pull these extra sheets out on a monthly out of the ream(s) we have sent you.  This will allow you to track what you use outside your printer and be able to adjust what you need.  We will attempt to take this into consideration to help ensure we continue to replenish your subscription paper on time. If you use sheets outside the printer without additional purchases, you run the risk of running out of Paper prior to the end of your billing cycle and HP does not guarantee that it will replenish your Plan prior to running out."
+            },
+            "faq_vw:answer:can_i_use_the_paper_i_receive_from_my_paper_subscription_outside_of_my_printer": {
+              "translation": "No. Your HP Instant Ink-subscribed printer will monitor your printing and let HP know when to ship you a replenishment kit before you need it. If you use the paper we send you for any other purpose other than printing in your subscribed printer, you run the risk of running out of paper without HP knowing. You are responsible for purchasing additional paper to use for any purpose other than printing in your subscribed printer."
+            },
+            "faq_vw:answer:did_instant_ink_send_me_wrong_cartridges": {
+              "translation": "Instant Ink cartridges may be larger than you expect or have a different model number than store-bought cartridges. You can feel confident that they are compatible with your printer. Visit HP Support for help installing cartridges."
+            },
+            "faq_vw:answer:did_instant_ink_send_me_wrong_cartridges_smb": {
+              "translation": "Instant Ink cartridges may be larger than you expect or have a different model number than store-bought cartridges. You can feel confident that they are compatible with your printer. Visit HP Support for help installing cartridges."
+            },
+            "faq_vw:answer:do_you_offer_other_types_of_paper_as_part_of_the_paper_add_on_service": {
+              "translation": "Initially, we will only offer our premium quality, sustainably sourced 20lb 96 Bright HP Paper that’s optimized for HP printers and original HP inks and engineered for versatility to support a wide range of everyday color printing.  In the future, we may add other types of paper products."
+            },
+            "faq_vw:answer:does_prepay_automatically_renew": {
+              "translation": "Yes, Prepay will be renewed when your Prepay balance becomes less than one month’s worth of the plan. This ensures you’re covered for your upcoming month.<br> <br>You'll receive notifications on your HP Admin dashboard and email reminders when your Prepay balance covers less than two months of your plan. Also, you'll receive reminders at least 30 days prior to your renewal date for an upcoming auto-renewal. You can cancel Prepay auto-renewal on your dashboard before the renewal date."
+            },
+            "faq_vw:answer:does_the_tax_rate_change_if_i_move_to_a_different_state": {
+              "translation": "If your shipping address for replacement supplies changes, it could mean a change to the tax rate for your plan. HP will adjust the monthly billed amount to reflect the new tax rate."
+            },
+            "faq_vw:answer:how_are_pages_recorded": {
+              "translation": "Your printer communicates with HP daily to communicate the number of pages printed and current ink or toner levels. Keep your printer connected to Wi-Fi to ensure your Instant Ink subscription works correctly and you receive replacement cartridges before you need them.<br><br>If pages are printed when the printer is not connected to the Internet (offline), those pages may be recorded on the date the printer comes back online. Learn more in our <a data-testid=\"print-history-faq-2-terms-of-service-link\" data-linkid=\"{{dataLinkId}}\" href='{{termsLink}}' target='_blank'>Terms of Service<\/a>."
+            },
+            "faq_vw:answer:how_are_pages_recorded_smb": {
+              "translation": "Your printer communicates with HP daily to communicate the number of pages printed and current ink or toner levels. Keep your printer connected to Wi-Fi to ensure your Instant Ink subscription works correctly and you receive replacement cartridges before you need them.<br><br>If pages are printed when the printer is not connected to the Internet (offline), those pages may be recorded on the date the printer comes back online. Learn more in our <a data-testid=\"print-history-faq-2-terms-of-service-link\" data-linkid=\"{{dataLinkId}}\" href='{{termsLink}}' target='_blank'>Terms of Service<\/a>."
+            },
+            "faq_vw:answer:how_are_taxes_calculated_for_each_printer": {
+              "translation": "We calculate taxes for your HP Instant Ink plan based on the shipping address in your account for replacement supplies. This monthly tax amount, together with the monthly service charges, will be deducted each month from your Prepay balance."
+            },
+            "faq_vw:answer:how_can_i_prepay_for_up_to_12_months": {
+              "translation": "Prepay allows you to pay for up to 12 months of your current plan price, save 10%, and will include any estimated applicable taxes. Your Prepay amount will be used to cover an enrolled printer’s monthly plan charges, any additional pages above the monthly page plan, as well as any other applicable taxes. <br> <br>You have the option to sign up for Prepay for each individual printer subscribed in your account (completed separately)."
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing": {
+              "translation": "Sign in to <a href='{{hpAdminUrl}}' target='_blank'>HP Smart Admin<\/a>. As an admin, you can see how many pages you've printed, available rollover pages, estimated next bill, and much more. You can update your payment method, change your address or your plan, and even chat with a support agent."
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing_consumer": {
+              "translation": "Log in to your <a href='{{hpAdminUrl}}' target='_blank'>account<\/a>. Here you can see how many pages you've printed, available rollover pages, estimated next bill, and much more. You can update your payment method, change your address or your plan, and even chat with a Support agent."
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing_consumer_enroll": {
+              "translation": "Log in to your <a href='{{hpAdminUrl}}' target='_blank'>Account<\/a>. Here you can see how many pages you've printed, available rollover pages, estimated next bill, and much more. You can update your payment method, change your address or your plan, and even chat with a Support agent."
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing_enroll": {
+              "translation": "Sign in to your <a href='{{hpAdminUrl}}' target='_blank'>Account<\/a>. There you can see how many pages you've printed, available rollover pages, estimated next bill, and much more. You can update your payment method, change your address or your plan, and even chat with a Support agent."
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing_learn_more": {
+              "translation": "Log in to your <a href='{{hpAdminUrl}}' target='_blank'>Account<\/a>. Here you can see how many pages you've printed, available rollover pages, estimated new bill, and much more. You can update your payment method, change your address or your plan, and even chat with a Support agent.<br>"
+            },
+            "faq_vw:answer:how_can_i_see_my_usage_and_billing_paper": {
+              "translation": "Log in to your HP Instant Ink account (<a href='{{hpInstantInkUrl}}' target='_blank'>HPInstantInk.com<\/a>). On your Instant Ink dashboard, you can see how many pages you've printed, available rollover pages, estimated next bill, and much more. You can update your payment method, change your address or your plan, and even chat with a Support agent. "
+            },
+            "faq_vw:answer:how_do_additional_charges_occur_with_prepay": {
+              "translation": "If you print more in a month than your current plan covers, your account will automatically purchase a set of additional pages (amount varies by plan). All additional charges for these pages and the applicable taxes will be deducted from your Prepay balance, and will appear on the following month's statement. This additional charge will only be present if you have reached the limit of your plan's pages and have used all available rollover pages. If this happens, your Prepay amount may not last as initially estimated."
+            },
+            "faq_vw:answer:how_do_additional_pages_beyond_my_plan_work": {
+              "translation": "If you have printed all of the pages in your plan and you have used all of your rollover pages, you can still easily print additional pages automatically. Additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set.<br> <br>When your printer is connected to the Internet, we can send you an email reminder when you are near printing all the pages in your plan. You can change your monthly plan by signing in to your account and selecting “Change Plan” or decide to purchase an additional set. You can make a plan upgrade effective immediately rather than purchasing additional pages, if you choose."
+            },
+            "faq_vw:answer:how_do_additional_pages_beyond_my_plan_work_landing_page": {
+              "translation": "If you have printed all of the pages in your plan and you have used all of your rollover pages, you can still easily print additional pages automatically. Additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set.<br><br>When your printer is connected to the Internet, we can send you an email reminder when you are near printing all the pages in your plan. You can change your monthly plan by signing in to your account and selecting \"Change Plan\" or decide to purchase an additional set. You can make a plan upgrade effective immediately rather than purchasing additional pages, if you choose."
+            },
+            "faq_vw:answer:how_do_additional_pages_work": {
+              "translation": "<p>If you have printed all of the pages in your plan and you have used all of your rollover pages, you can still easily print additional pages automatically. Additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set.<\/p><br\/><p>When your printer is connected to the Internet, we can send you an email reminder when you are near printing all the pages in your plan. You can change your monthly plan by signing in to your <a href='{{hpAdminUrl}}' target='_blank'>account<\/a> and selecting <b>Change Plan<\/b>. You can make a plan upgrade effective immediately rather than purchasing additional pages, if you choose.<\/p>"
+            },
+            "faq_vw:answer:how_do_additional_pages_work_consumer_enroll": {
+              "translation": "<p>If you have printed all of the pages in your plan and you have used all of your rollover pages, you can still easily print additional pages automatically. Additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set.<\/p><br><p>When your printer is connected to the Internet, we can send you an email reminder when you are near printing all the pages in your plan. You can change your monthly plan by signing in at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a> and selecting Change Plan or decide to purchase an additional set. You can make a plan upgrade effective immediately rather than purchasing additional pages, if you choose.<\/p>"
+            },
+            "faq_vw:answer:how_do_additional_pages_work_learn_more": {
+              "translation": "If you have printed all of the pages in your plan and you have used all of your rollover pages, you can still easily print additional pages automatically. Additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set.<br><br>When your printer is connected to the Internet, we can send you an email reminder when you are near printing all the pages in your plan. You can change your monthly plan by signing in at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a> and selecting Change Plan or decide to purchase an additional set. You can make a plan upgrade effective immediately rather than purchasing additional pages, if you choose."
+            },
+            "faq_vw:answer:how_do_i_cancel_instant_ink_consumer": {
+              "translation": "You can change or cancel the service at any time by clicking <a href=\"{{cancellation_path}}\" target=\"_blank\">here<\/a> to cancel online or by calling {{support_phone}}.",
+              "notes": "{\"order\":826,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:answer:how_do_i_cancel_instant_ink_consumer_enroll": {
+              "translation": "You can change or cancel the service at any time by clicking <a href=\"{{cancellation_path}}\" target=\"_blank\">HERE<\/a> to cancel online or by calling {{support_phone}}."
+            },
+            "faq_vw:answer:how_do_i_cancel_instant_ink_smb": {
+              "translation": "You can change or cancel the service at any time with no additional fee. Sign in to <a href=\"{{cancellation_path}}\" target=\"_blank\">HP Smart Admin<\/a> to cancel online or contact HP Support at {{support_phone}}."
+            },
+            "faq_vw:answer:how_do_i_contract_hp_instant_ink": {
+              "translation": "If you have trouble accessing your Instant Ink account, issues with shipments, or other problems, we are here to help. Please contact us <a href='{{hpSupportUrl}}' target='_blank'>here<\/a>."
+            },
+            "faq_vw:answer:how_do_i_enroll_my_hp_laserjet_pro_3000_4000_in_instant_ink": {
+              "translation": "To learn how to enroll your HP LaserJet Pro 3000 series or HP LaserJet Pro 4000 series printer in <span>HP Instant Ink,<\/span> go <a href=\"https:\/\/support.hp.com\/us-en\/document\/ish_8062398-8046664-16\" target=\"_blank\">here<\/a>."
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_consumer_enroll": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\" target=\"_blank\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_consumer_ink_shipment": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_consumer_landing_page": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\" target=\"_blank\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_smb_enroll": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_smb_ink_shipment": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_recycle_the_subscription_cartridges_smb_landing_page": {
+              "translation": "<p>We encourage you to return your used cartridges to be recycled. For cartridges, use the printed shipping label in the box or print a shipping label from your account dashboard.<\/p><br \/><p>All cartridges received will be recycled by HP Planet Partners. Program availability varies by country. For details, see <a href=\"https:\/\/hp.com\/recycle\">hp.com\/recycle<\/a>.<\/p>"
+            },
+            "faq_vw:answer:how_do_i_sign_into_my_hp_instant_ink_account": {
+              "translation": "Visit <a href=\"https:\/\/www.hpinstantink.com\" target=\"_blank\">hpinstantink.com<\/a> to access your Instant Ink account. In the top-right corner of the webpage, select Sign In. You can also sign into your account through the HP Smart app (available for iOS, Android, and Windows devices). You can also install the HP Smart app from <a href='https:\/\/www.123.hp.com' target='_blank'>123.hp.com<\/a> on your device. After installation, open the app. On the HP Smart Home select the Instant Ink tile to sign in or sign up."
+            },
+            "faq_vw:answer:how_do_i_sign_up_for_prepay": {
+              "translation": "You can sign up for Prepay on your HP Admin dashboard. You'll be asked to confirm your Prepay amount and follow the steps to sign up."
+            },
+            "faq_vw:answer:how_does_hp_instant_ink_work_consumer": {
+              "translation": "<p>HP Instant Ink is based on pages, not cartridges. Choose a plan based on the number of pages you would like to print monthly. Your monthly fee allows you to use our subscription cartridges to print your plan pages and includes ink or toner, delivery and recycling.<\/p><br\/><p>HP Instant Ink is flexible. You can roll over unused pages month to month (the amount of pages you can accumulate varies by plan) or if you print more, you'll automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan can be changed at any time to accommodate your printing needs.<\/p><br\/><p>We send you HP Instant Ink subscription cartridges when you first sign up. Replacement cartridges are sent when your printer tells HP you need more ink or toner, not by the month.<\/p>"
+            },
+            "faq_vw:answer:how_does_hp_instant_ink_work_consumer_enroll": {
+              "translation": "<p>HP Instant Ink is based on pages, not cartridges. Choose a plan based on the number of pages you would like to print monthly. Your monthly fee allows you to use our subscription cartridges to print your plan pages and includes ink or toner, delivery and recycling.<\/p><br><p>HP Instant Ink is flexible. You can roll over unused pages month to month (the amount of pages you can accumulate varies by plan) or if you print more, you'll automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan can be changed at any time to accommodate your printing needs.<\/p><br><p>We send you HP Instant Ink subscription cartridges when you first sign up. Replacement cartridges are sent when your printer tells HP you need more ink or toner, not by the month.<\/p>"
+            },
+            "faq_vw:answer:how_does_hp_instant_ink_work_consumer_without_toner": {
+              "translation": "<p>HP Instant Ink is based on pages, not cartridges. Choose a plan based on the number of pages you would like to print monthly. Your monthly fee allows you to use our subscription cartridges to print your plan pages and includes ink, delivery, and recycling.<\/p><br\/><p>HP Instant Ink is flexible. You can roll over unused pages month to month (the amount of pages you can accumulate varies by plan) or if you print more, you'll automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan can be changed anytime to accommodate your printing needs.<\/p><br\/><p>We send you HP Instant Ink subscription cartridges when you first sign up. Replacement cartridges are only sent when your printer tells HP you need more ink, and not on a monthly schedule.<\/p>"
+            },
+            "faq_vw:answer:how_does_instant_ink_work": {
+              "translation": "Instant Ink is a monthly subscription program for automatic toner replenishment. Plans are based on pages printed each month, not the number of cartridges you use. Instant Ink is convenient and can save you up to {{savingsPercent}}.<br><br>When you enroll, you'll select a plan best suited to your needs. Your monthly fee includes toner monitoring, replacement cartridges as needed, shipping, and recycling. You can roll over unused pages or automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan is flexible and can be changed at any time."
+            },
+            "faq_vw:answer:how_does_instant_ink_work_learn_more": {
+              "translation": "HP Instant Ink is based on pages, not cartridges. Choose a plan based on the number of pages you would like to print monthly. Your fee allows you to use our subscription cartridges to print your plan pages and include ink or toner, delivery and recycling.<br><br>HP Instant Ink is flexible. You can rollover unused pages month to month (the amount of pages you can accumulate varies by plan) or if you print more, you'll automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan can be changed at any time to accommodate your printing needs.<br><br>We send you HP Instant Ink subscription cartridges when you first sign up. Replacement cartridges are sent when you first sign up. Replacement cartridges are sent when your printer tells HP you need more ink or toner, not by the month.<br>"
+            },
+            "faq_vw:answer:how_does_the_paper_add_on_service_work": {
+              "translation": "The Paper Add-on Service is based on pages printed just like your HP Instant Ink subscription. <br><br>Simply choose a paper plan that corresponds to your ink plan (100 pages of paper for your 100-page ink plan).<br><br>Once you sign up to the Paper Add-on Service, you don’t have to worry about running out of paper if you use your paper for printing purposes. Your printer will track your pages printed, so we can automatically send you new ream(s) when you run low and receive printer paper before you need it. HP only tracks pages printed through your Instant Ink-enabled printer subscribed to this service.  The paper we send you should only be used for printing purposes in this subscribed printer.  If you use the paper we send you for any other purpose other than printing in your subscribed printer, you run the risk of running out of paper without HP knowing. You are responsible for purchasing additional paper to use for any purpose other than printing in your subscribed printer. <br><br>Based on the plan you select, we send you a kit with one or three reams of 500 pages of high-quality, FSC®-certified<sup>3<\/sup> HP Paper when you first sign up based on the plan you select. Replacement ream(s) are sent when your printer tells HP you need more paper, not by the month. <br><br>Note: The Paper Add-on service is not initially available to ship to Alaska, Hawaii, US Territories, military bases or PO Box addresses."
+            },
+            "faq_vw:answer:how_does_upgrading_my_printer_to_a_higher_cost_plan_affect_my_bill": {
+              "translation": "Your Prepay cost for up to 12 months of service is based on the plan you originally chose. If you upgrade later, the new, higher plan will use up more of your Prepay balance. This leaves a lower balance overall to cover the remaining month(s) on your account."
+            },
+            "faq_vw:answer:how_hp_instant_ink_work_ink": {
+              "translation": "HP Instant Ink is a monthly subscription program for automatic ink replenishment. Plans are based on pages printed each month, not the number of cartridges you use. HP Instant Ink is convenient and can save you up to {{savingsPercent}}.  <br><br>When you enroll, you’ll select a plan best suited to your needs. Your monthly fee includes ink monitoring, replacement cartridges as needed, shipping, and recycling. Plans start at {{plansPrice}}\/month. You can roll over unused pages or automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan is flexible and can be changed at any time."
+            },
+            "faq_vw:answer:how_hp_instant_ink_work_laser": {
+              "translation": "HP Instant Ink is a monthly subscription program for automatic toner replenishment. Plans are based on pages printed each month, not the number of cartridges you use. HP Instant Ink is convenient and can save you up to {{savingsPercent}}.  <br><br>When you enroll, you’ll select a plan best suited to your needs. Your monthly fee includes toner monitoring, replacement cartridges as needed, shipping, and recycling. Plans start at {{plansPrice}}\/month. You can roll over unused pages or automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}} (pages per set varies by plan). Your plan is flexible and can be changed at any time."
+            },
+            "faq_vw:answer:how_is_my_billing_affected_if_i_change_or_cancel_my_plan_billing": {
+              "translation": "If you decide to upgrade, you can activate the upgrade right away or postpone the upgrade until the next billing cycle. You can also downgrade your plan, which will reflect on your next billing cycle.<br><br>If you decide to cancel your HP Instant Ink, you can go back to using HP original Standard or XL cartridges. HP Instant Ink cartridges will work until after the end of the billing cycle in which you cancel. Cancellations will reflect on your next billing cycle, unless you have a prepaid balance. Any remaining prepaid balance will be applied to another printer. No refunds are available on prepaid balances."
+            },
+            "faq_vw:answer:how_long_will_the_prepay_amount_last": {
+              "translation": "The Prepay amount is intended to last up to 12 months if the monthly usages stay within the chosen plan allotment, without any overages, change in plans, subscription to other services, or taxes or prices. If there's an additional charge beyond the initially selected plan at the time of Prepay, the Prepay amount will run out earlier than 12 months. If there's a downgrade of the print plan or decrease in prices or taxes, the Prepay amount may last longer than 12 months.  <br> <br>If there are free months included with your Instant Ink subscription, all the free months will be used before deducting your Prepay balance, and your Prepay balance may last longer than 12 months. <br> <br>When your Prepay balance runs low, HP will notify you to remind you of the upcoming Prepay cost and date."
+            },
+            "faq_vw:answer:how_often_do_i_receive_an_invoice_for_a_printer_subscription_with_prepay": {
+              "translation": "An advance invoice will be issued when your Prepay account is created, reflecting the amount of your Prepay deposit. Instant Ink billing is based on a monthly subscription. Each month, an invoice will be generated and will be funded from your Prepay balance."
+            },
+            "faq_vw:answer:i_print_on_both_sides_of_a_sheet_of_paper_how_does_it_count_towards_my_paper_subscription": {
+              "translation": "Prior to 6\/19\/22, your printed pages for paper will be identical to those for ink. Starting 6\/19\/22 or a date thereabouts determined by HP, your printer will be able to track whether you print on both sides or on one side of a sheet of paper. Printing on both sides of a sheet of paper only counts as one sheet of paper printed on your plan. If you print on only one side of a sheet of paper, it also counts as one sheet of paper printed. While this information will not be displayed on your dashboard prior to 6\/19\/22 or a date thereabouts determined by HP, it is being tallied together, and replenishment of paper is estimated accordingly to ensure you receive paper when you need it. After the launch of the service, you will see this information detailed on your dashboard."
+            },
+            "faq_vw:answer:if_i_have_a_tango_printer_how_do_i_print_free_photos_from_my_smartphone_and_tablet": {
+              "translation": "Exclusive for the HP Tango printer, those who enroll in HP Instant Ink will not be charged for photos printed on photo paper size 5 x 7” or smaller from their smartphones and tablets. Tango will know when you print photos from a mobile device. When printing to 5 x 7” or smaller photos, the prints are not counted against your monthly page allotments (the number of pages in your enrolled plan). You must print from an Android™ or iOS® device to take advantage of this offer (Notebooks and Windows phones are not included) and must have an active HP Instant Ink account with a paid plan. You can monitor your free mobile photo prints from a special page meter on your account page. Limitations may apply. Once enrolled, go to your dashboard to learn more."
+            },
+            "faq_vw:answer:if_i_have_a_tango_printer_how_do_i_print_free_photos_from_my_smartphone_and_tablet_consumer_enroll": {
+              "translation": "Exclusive for the HP Tango printer, those who enroll in HP Instant Ink will not be charged for photos printed on photo paper size 5 x 7” or smaller from their smartphones and tablets. Tango will know when you print photos from a mobile device. When printing to 5 x 7” or smaller photos, the prints are not counted against your monthly page allotments (the number of pages in your enrolled plan). You must print from an Android™ or iOS® device to take advantage of this offer (Notebooks and Windows phones are not included) and must have an active HP Instant Ink account with a paid plan. You can monitor your free mobile photo prints from a special page meter on your account page. Limitations may apply. Once enrolled, go to your dashboard to learn more."
+            },
+            "faq_vw:answer:if_i_print_a_photo_or_brochure_on_specialty_paper_does_that_count_towards_my_paper_subscription": {
+              "translation": "Prior to 6\/19\/22, your printed pages for paper will be identical to those for ink. After 6\/19\/22 or a date thereabouts determined by HP, your printer will be able to track whether you print a photo in photo mode or a brochure in specialty media mode, so it does not count towards your paper plan."
+            },
+            "faq_vw:answer:if_i_sign_up_for_paper_addon_do_i_have_a_free_trial_period": {
+              "translation": "The Paper Add-on Service does not automatically come with a free trial period. There may be times during the year when the Paper Add-on service will be promoted with a free trial offer. Please check the <a href='{{hpInstantInkUrl}}' target='_blank'>hpinstantink.com<\/a> website when you are ready to sign up for the Paper Add-on Service to see if a free trial is offered."
+            },
+            "faq_vw:answer:if_im_an_instant_ink_customer_where_can_i_sign_up_for_paper_add_on_service": {
+              "translation": "If the Paper Add-on Service is available in your area, you will find a Paper Add-on service offer tile on the homepage of your HP Instant Ink dashboard. By clicking on the offer tile, you can learn all the details about the paper subscription and simply add the paper subscription to your existing Instant Ink service."
+            },
+            "faq_vw:answer:is_my_plan_change_or_cancellation_effective_immediately": {
+              "translation": "Yes, you can cancel your printing plan or change plans at any time. To change your plan or cancel your service, sign in to <a href='{{hpAdminUrl}}' target='_blank'>HP Smart Admin<\/a>.<br><br>You can upgrade your plan in the current or next billing cycle. Downgrades are effective in the next billing cycle.<br><br>Requests to cancel take effect at the end of your current billing cycle. Because the service bills at the end of each billing cycle, you will receive one final monthly charge, if applicable.<br><br>The subscription cartridges only work while your printer is enrolled in HP Instant Ink service, so you will need to purchase store-bought cartridges after your final billing cycle to continue printing."
+            },
+            "faq_vw:answer:is_my_plan_change_or_cancellation_effective_immediately_consumer": {
+              "translation": "<p>To change your plan or cancel your service, sign in to your <a href='{{hpAdminUrl}}' target='_blank'>account<\/a>.<\/p><br><p>You can upgrade your plan in the current or next billing cycle. Downgrades are effective in the next billing cycle.<\/p><br><p>Requests to cancel take effect at the end of your current billing cycle. Because the service bills at the end of each billing cycle, you will receive one final monthly charge, if applicable.<\/p><br><p>HP Instant Ink subscription cartridges only work while your printer is enrolled in HP Instant Ink service, so you will need to purchase traditional cartridges after your final billing cycle to continue printing.<\/p><br><p>For more details, see <a href=\"{{hpTermsOfService}}\" target=\"_blank\">HP Instant Ink Terms of Service<\/a>.<\/p>"
+            },
+            "faq_vw:answer:is_my_plan_change_or_cancellation_effective_immediately_consumer_enroll": {
+              "translation": "<p>Yes. You can cancel your printing plan or change plans at any time. To change your plan or cancel your service, sign in at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a>.<\/p><br><p>You can upgrade your plan in the current or next billing cycle. Downgrades are effective in the next billing cycle.<\/p><br><p>Requests to cancel take effect at the end of your current billing cycle. Because the service bills at the end of each billing cycle, you will receive one final monthly charge, if applicable.<\/p><br><p>The subscription cartridges only work while your printer is enrolled in HP Instant Ink service, so you will need to purchase store-bought cartridges after your final billing cycle to continue printing.<\/p><br><p>For more details, see <a href=\"{{hpTermsOfService}}\" target=\"_blank\">HP Instant Ink Terms of Service<\/a>.<\/p>"
+            },
+            "faq_vw:answer:is_my_plan_change_or_cancellation_effective_immediately_paper": {
+              "translation": "You can choose to make a change to a higher plan effective immediately and retroactively apply to the current billing cycle, or have the upgrade take effect the first day of the next billing cycle.<br><br>Changes to a lower plan and cancellation are effective the first day of the next billing cycle.<br><br>Cancellation of your paper plan will only impact your paper subscription; however, cancellation of your ink plan will automatically cancel your paper subscription as well.<br><br>For more details, see the <a href='{{hpTermsOfService}}' target='_blank'>HP Instant Ink Terms of Service<\/a>."
+            },
+            "faq_vw:answer:is_my_printer_eligible_for_HP_instant_ink": {
+              "translation": "Most HP printers are eligible for Instant Ink. We will detect your printer's eligibility during the enrollment process. If your printer is not eligible for Instant Ink, your service will not start, and you will not be charged.<br><br>If a trial is offered, all plans are eligible. Regardless of the plan you choose, you will be able to print a set number of pages per month during the trial. Charges for additional page sets will apply according to the plan you selected. After the trial, you will be enrolled in the plan you selected during setup."
+            },
+            "faq_vw:answer:is_my_printer_eligible_for_HP_instant_ink_consumer_enroll": {
+              "translation": "Most HP printers are eligible for Instant Ink. We will detect your printer's eligibility during the enrollment process. If your printer is not eligible for Instant Ink, your service will not start, and you will not be charged.<br><br>If a trial is offered, all plans are eligible. Regardless of the plan you choose, you will be able to print a set number of pages per month during the trial. Charges for additional page sets will apply according to the plan you selected. After the trial, you will be enrolled in the plan you selected during setup."
+            },
+            "faq_vw:answer:is_my_printer_eligible_for_hp_instant_ink": {
+              "translation": "Most HP printers are eligible for Instant Ink. We will detect your printer's eligibility during the enrollment process. If your printer is not eligible for Instant Ink, your service will not start, and you will not be charged.<br><br>If a trial is offered, all plans are eligible. Regardless of the plan you choose, you will be able to print a set number of pages per month during the trial. Charges for additional page sets will apply according to the plan you selected. After the trial, you will be enrolled in the plan you selected during setup."
+            },
+            "faq_vw:answer:is_the_cost_the_same_for_photos_color_and_black_and_white_pages": {
+              "translation": "<p>Yes! One of the advantages of HP Instant Ink is that you can print full color photos, color documents, or high-quality black and white pages, all for the same cost.<\/p><\/br><p>Since your monthly charge is based on pages, not the amount of ink or toner you use, you never have to worry about printing in black and white to avoid using your color ink or toner cartridges.<\/p>"
+            },
+            "faq_vw:answer:is_the_cost_the_same_for_photos_color_and_black_and_white_pages_consumer_enroll": {
+              "translation": "<p>Yes! One of the advantages of HP Instant Ink is that you can print full color photos, color documents, or high-quality black and white pages, all for the same cost.<\/p><br><p>Since your monthly charge is based on pages, not the amount of ink or toner you use, you never have to worry about printing in black and white to avoid using your color ink or toner cartridges.<\/p>"
+            },
+            "faq_vw:answer:is_the_cost_the_same_for_photos_color_and_black_and_white_pages_without_toner": {
+              "translation": "<p>Yes! One of the advantages of HP Instant Ink is that you can print full color photos, color documents, or high-quality black and white pages, all for the same cost.<\/p><\/br><p>Since your monthly charge is based on pages, not the amount of ink you use, you never have to worry about printing in black and white to avoid using your color ink cartridges.<\/p>"
+            },
+            "faq_vw:answer:is_the_paper_in_the_paper_add_on_service_sustainable": {
+              "translation": "Yes. The HP Paper we use in the Paper Add-on Service is certified by the Forest Stewardship Council® (FSC®) which means that we only source the paper from responsibly managed forests to guarantee healthy growth for future generations."
+            },
+            "faq_vw:answer:should_i_sign_up_for_the_paper_addon_service_if_i_still_have_paper_in_my_printer": {
+              "translation": "Don't worry if you still have some paper in your current Instant Ink-connected printer. Sign up now before you run out of paper! Once subscribed to the Paper Add-on Service, we will send you a Welcome Package with one or three reams of 500 sheets of high-quality, FSC®-certified, HP Paper, depending on your plan. Your billing will start when you receive your Welcome Package."
+            },
+            "faq_vw:answer:should_i_sign_up_if_i_still_have_ink_toner": {
+              "translation": "Yes, signing up to for ink\/toner now is a great idea! That way we can ship you ink\/toner to have on hand ready to go when you need it. Your service will start when you install your first HP Instant Ink cartridge which may have shipped with the printer or Instant Ink will ship to you after confirming your enrollment."
+            },
+            "faq_vw:answer:should_i_sign_up_if_i_still_have_ink_toner_consumer_enroll": {
+              "translation": "Yes, signing up to for ink\/toner now is a great idea! That way we can ship you ink\/toner to have on hand ready to go when you need it. Your service will start when you install your first HP Instant Ink cartridge which may have shipped with the printer or Instant Ink will ship to you after confirming your enrollment."
+            },
+            "faq_vw:answer:should_i_sign_up_if_i_still_have_ink_toner_without_toner": {
+              "translation": "Yes, signing up for ink now is a great idea! That way we can ship you ink to have on hand and ready to go when you need it. Your service will start when you install your first HP Instant Ink subscription cartridge, which may have been shipped with the printer or sent to you by HP after confirming your enrollment in Instant Ink."
+            },
+            "faq_vw:answer:should_i_sign_up_if_i_still_have_toner": {
+              "translation": "Yes, signing up for Instant Ink now is a great idea! That way we can ship you toner to have on hand when you need it. Your service will start when you install your first HP Instant Ink cartridge which may have shipped with the printer or Instant Ink will ship to you after confirming your enrollment."
+            },
+            "faq_vw:answer:what_are_additional_and_rollover_pages": {
+              "translation": "Instant Ink printing plans are flexible. If you print more pages than included in your plan, including any available rollover pages, you automatically purchase Additional Pages in sets of {{planRange}} pages. Visit <a data-testid='print-history-faq-2-change-plan-link' data-linkid=\"{{dataLinkId}}\">Update Plan<\/a> to see all available page plan options."
+            },
+            "faq_vw:answer:what_are_additional_and_rollover_pages_smb": {
+              "translation": "Instant Ink printing plans are flexible. If you print more pages than included in your plan, including any available rollover pages, you automatically purchase Additional Pages in sets of {{planRange}} pages. Visit <a data-testid='print-history-faq-2-change-plan-link-smb' data-linkid=\"{{dataLinkId}}\">Update Plan<\/a> to see all available page plan options."
+            },
+            "faq_vw:answer:what_are_the_qualifications_for_a_trial": {
+              "translation": "When you purchase a new printer, you might be offered a trial during printer setup.<br><br>If a trial is offered, all applicable plans are eligible. Regardless of the plan you choose, you will be able to print a set number of pages per month during the trial. Charges for additional page sets will apply according to the plan you selected. After the trial, you will be enrolled in the plan you selected during setup."
+            },
+            "faq_vw:answer:what_are_the_qualifications_for_fee_trial": {
+              "translation": "<p>When you purchase a new printer, you might be offered a trial.<\/p><br\/><p>If a trial is offered, all plans are eligible. After the trial, you will be enrolled in the plan you selected during setup.<\/p>"
+            },
+            "faq_vw:answer:what_are_the_qualifications_for_fee_trial_consumer_enroll": {
+              "translation": "<p>When you purchase a new printer, you might be offered a trial during printer setup.<\/p><br><p>If a trial is offered, all plans are eligible. Regardless of the plan you choose, you will be able to print a set number of pages per month during the trial.Charges for additional page sets will apply according to the plan you selected. After the trial, you will be enrolled in the plan you selected during setup.<\/p>"
+            },
+            "faq_vw:answer:what_counts_as_a_printed_page": {
+              "translation": "A printed page is a page upon which any amount of ink or toner is placed by your printer, when at least one Instant ink subscription cartridge is installed. Printing on both sides of the same sheet of paper counts as two pages. Completely blank pages, scanned pages, and outgoing faxes are not included in your printed page count.<br><br>Pages printed when no Instant Ink subscription cartridges are installed are not counted, but the monthly fee will still be charged. Chat with Virtual Assistant if you need to replace a shipment."
+            },
+            "faq_vw:answer:what_counts_as_a_printed_page_smb": {
+              "translation": "A printed page is a page upon which any amount of ink or toner is placed by your printer, when at least one Instant ink subscription cartridge is installed. Printing on both sides of the same sheet of paper counts as two pages. Completely blank pages, scanned pages, and outgoing faxes are not included in your printed page count.<br><br>Pages printed when no Instant Ink subscription cartridges are installed are not counted, but the monthly fee will still be charged. Chat with Virtual Assistant if you need to replace a shipment."
+            },
+            "faq_vw:answer:what_do_i_need_to_enroll": {
+              "translation": "To sign up for an HP Instant Ink for business account, you will need:<br><br><ul><li>An HP printer eligible for Instant Ink.<\/li><br><li>To keep your printer powered on and continuously connected to the Internet.<\/li><br><li>A valid email address and payment method, such as credit card, debit card, or PayPal.<\/li><\/ul><br>These guidelines make sure the service will work as intended."
+            },
+            "faq_vw:answer:what_do_i_need_to_enroll_consumer": {
+              "translation": "<p>You'll need to:<\/p><br\/><p>Have an HP printer, eligible for the service.<\/p><br\/><p>Make sure your printer is turned on and connected to the Internet using Wi-Fi.<\/p><br\/><p>Have a valid email address and payment method (credit card, debit card, or PayPal).<\/p><br\/><p>Make sure your shipping address is up to date in your HP account.<\/p>"
+            },
+            "faq_vw:answer:what_do_i_need_to_enroll_consumer_enroll": {
+              "translation": "<p>You'll need to:<\/p><br><p>Have an HP printer, eligible for the service.<\/p><br><p>Make sure your printer is turned on and connected to the Internet using Wi-Fi.<\/p><br><p>Have a valid email address and payment method (credit card, debit card, or PayPal).<\/p><br><p>Make sure your shipping address is up to date in your HP account.<\/p>"
+            },
+            "faq_vw:answer:what_do_i_need_to_enroll_paper": {
+              "translation": "<p>You'll need to:<\/p><p>Have an HP printer, eligible for the service.<\/p><p>Make sure your printer is turned on and connected to the Internet using Wi-Fi.<\/p><p>Have a valid email address and payment method (credit card, debit card, or PayPal).<\/p><p>Make sure your shipping address is up to date in your HP account.<\/p>"
+            },
+            "faq_vw:answer:what_does_my_monthly_payment_include": {
+              "translation": "When you are enrolled in <span>HP Instant Ink<\/span>, your monthly charge covers your selected printing plan, the use of Instant Ink subscription cartridges, shipping, and recycling. We only send cartridges when you run low, so you won't receive shipments every month. You are not purchasing cartridges with the Instant Ink service. See <a data-testid='{{dataTestIdPage}}-faq-2-plan-overview-link' data-linkid='{{dataLinkId}}'>Overview<\/a> and <a data-testid='{{dataTestIdPage}}-faq-2-change-plan-link' data-linkid='{{dataLinkId}}'>Update Plan<\/a> for more information."
+            },
+            "faq_vw:answer:what_does_my_monthly_payment_include_smb": {
+              "translation": "When you are enrolled in HP Instant Ink, your monthly charge covers your selected printing plan, the use of Instant Ink subscription cartridges, shipping, and recycling. We only send cartridges when you run low, so you won't receive shipments every month. You are not purchasing cartridges with the Instant Ink service. See <a data-testid='{{dataTestIdPage}}-faq-2-plan-overview-link-smb' data-linkid='{{dataLinkId}}'>Overview<\/a> and <a data-testid='{{dataTestIdPage}}-faq-2-change-plan-link-smb' data-linkid='{{dataLinkId}}' >Update Plan<\/a> for more information."
+            },
+            "faq_vw:answer:what_happens_if_i_do_not_use_all_my_pages": {
+              "translation": "If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. View this at any time in your account Dashboard."
+            },
+            "faq_vw:answer:what_happens_if_i_do_not_use_all_my_pages_learn_more": {
+              "translation": "If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan (for example, for toner, you can roll over up to 100 pages if you are on the 50 page plan). View this at any time on your Account page."
+            },
+            "faq_vw:answer:what_happens_if_i_dont_use_all_my_pages": {
+              "translation": "If you do not use all your plan pages in a month for a subscribed printer, the unused pages will be kept in your account as rollover pages for that printer. The amount of pages you can accumulate varies by plan (for example, for toner, you can roll over up to 100 pages if you are on the 50 page plan). View this at any time on your Account page.<br><br>Pages can only be rolled over for the specific subscribed printer and plan they were designated for. You can't roll unused pages from one printer to another within your account."
+            },
+            "faq_vw:answer:what_happens_if_i_dont_use_all_my_pages_consumer": {
+              "translation": "If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. (For example, if you have toner, you can roll over up to 100 pages if you are on the 50 page plan. If you have ink, you can roll over up to 150 pages if you are on the 50 page plan.) View this at any time on your Account page."
+            },
+            "faq_vw:answer:what_happens_if_i_dont_use_all_my_pages_consumer_enroll": {
+              "translation": "If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. (For example, if you have toner, you can roll over up to 100 pages if you are on the 50 page plan. If you have ink, you can roll over up to 150 pages if you are on the 50 page plan.) View this at any time on your Account page."
+            },
+            "faq_vw:answer:what_happens_if_i_dont_use_all_my_pages_consumer_without_toner": {
+              "translation": "If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of rollover pages you can accumulate varies by plan. (For example, if you have ink, you can roll over up to 150 pages if you are on the 50-page plan.) View this anytime on your <a href=\"{{hpAdminUrl}}\" target=\"_blank\">account<\/a> page."
+            },
+            "faq_vw:answer:what_happens_if_i_dont_use_all_my_paper_pages": {
+              "translation": "If you do not use all your paper plan pages in a month, the unused pages will be kept in your account as rollover pages and automatically rolled over to the next month. The number of pages you can accumulate varies with your monthly paper plan, for as long as you are enrolled in the service.<br><br>For example, you can roll over up to 150 pages if you are enrolled in a 50-page paper plan."
+            },
+            "faq_vw:answer:what_happens_if_my_printing_needs_to_change_from_month_to_month": {
+              "translation": "The Paper Add-on Service is flexible. Unused pages roll over<sup>2<\/sup>, up to three times our monthly plan amount. If you print more, you’ll automatically purchase sets of {{overageBlockRange}} pages for {{overageBlockPrice}}.<br\/><br\/>From your account page at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a>, you can upgrade your plan in the current billing cycle or in the next billing cycle. Downgrades are effective in the next billing cycle.<br\/><br\/>For more details, see the <a href='{{hpTermsOfService}}' target='_blank'>HP Instant Ink Terms of Service<\/a>.<br\/><br\/>"
+            },
+            "faq_vw:answer:what_happens_to_my_bill_if_i_downgrade_to_a_less_expensive_plan": {
+              "translation": "If you downgrade to a less expensive plan, your Prepay balance will likely cover the subscription for longer than originally estimated, unless there are additional pages or service charges added to your statement. Your Prepay amount will renew automatically when your balance is gone or is not enough to cover the upcoming month of your current plan. You can also choose to cancel the automatic renewal."
+            },
+            "faq_vw:answer:what_if_i_add_another_new_hp_printer_billing": {
+              "translation": "If you add another HP printer to your account, it will also be added to your consolidated bill and will share its billing cycle."
+            },
+            "faq_vw:answer:what_if_i_add_another_new_hp_printer_billing_trial": {
+              "translation": "If you add another HP printer to your account, it will also be added to your consolidated bill and will share its billing cycle."
+            },
+            "faq_vw:answer:what_if_i_change_my_address_to_somewhere_with_a_different_tax_rate_shipping": {
+              "translation": "You will be charged the appropriate tax rate for each shipping address, based on the location. HP will adjust the monthly billed amount to adjust for the new tax rate."
+            },
+            "faq_vw:answer:what_if_i_do_not_know_how_many_pages_i_print": {
+              "translation": "Don't worry, Instant Ink plans are flexible. Choose a plan during your trial, risk-free, and if you realize there's a better plan for your printing needs, you can change your plan anytime with no additonal fee.<br><br>You can track how many pages you print in your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a> and upgrade or downgrade to any of the other plans."
+            },
+            "faq_vw:answer:what_if_i_do_not_know_how_many_pages_i_print_enroll": {
+              "translation": "Don't worry, once you sign up to HP Instant Ink, if you realize that there's a better plan that suits your needs, you can change your plan anytime.<br> <br>You can track how many pages you print in your Dashboard and upgrade or downgrade to any of the other plans."
+            },
+            "faq_vw:answer:what_if_i_do_not_know_how_many_pages_i_print_learn_more": {
+              "translation": "Don't worry, once you sign up to HP Instant Ink, if you realize that there's a better plan that suits your needs, you can change your plan anytime.<br><br>You can track how many pages you print in your Dashboard and upgrade or downgrade to any of the other plans."
+            },
+            "faq_vw:answer:what_if_i_dont_know_how_many_pages_i_print": {
+              "translation": "<p>Don't worry, once you sign up for HP Instant Ink you can change your plan anytime if you realize that there's a better plan that suits your needs.<\/p><br\/><p>You can track how many pages you print in your dashboard, and upgrade or downgrade to any of the other plans.<\/p>"
+            },
+            "faq_vw:answer:what_if_i_dont_know_how_many_pages_i_print_consumer_enroll": {
+              "translation": "<p>Don't worry, once you sign up to HP Instant Ink, if you realize that there's a better plan that suits your needs, you can change your plan anytime.<\/p><p>You can track how many pages you print in your Dashboard and upgrade or downgrade to any of the other plans.<\/p>"
+            },
+            "faq_vw:answer:what_if_i_need_to_print_more_pages_than_my_monthly_plan": {
+              "translation": "Once you have printed all the pages in your plan, you can use any available unused rollover pages to cover your extra printing. You can also easily change your monthly paper plan if your printing needs to change from month to month. Prior to 6\/19\/22, you will not be charged for overages on your paper plan. Starting 6\/19\/22 or a date thereabouts determined by HP, if you have printed all of the sheets in your paper plan and you have used all of your rollover paper paper, you can still easily print additional pages. Additional pages are available in sets of {{overageBlockRange}} pages for only {{overageBlockPrice}}.<br><br>If your printer is connected to the Internet, we will send you an email when you are about to reach your monthly sheet limit. You can always upgrade your plan rather than purchasing additional pages."
+            },
+            "faq_vw:answer:what_if_my_printing_needs_change_from_month_to_month": {
+              "translation": "HP Instant Ink is flexible. If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. View this at any time on your Account page. If you print more, you'll automatically purchase sets of {{overageBlockRange}} additional pages for {{overageBlockPrice}} (pages per set varies by plan).<br><br>In your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, you can upgrade your plan in the current billing cycle or in the next billing cycle. Downgrades are effective in the next billing cycle.<br><br>For more details, see the <a href=\"{{hpTermsOfService}}\" target=\"_blank\">HP Instant Ink Terms of Service<\/a>."
+            },
+            "faq_vw:answer:what_if_my_printing_needs_change_from_month_to_month_consumer": {
+              "translation": "<p>HP Instant Ink is flexible. If you print more than your plan, additional pages are available in sets of {{overageBlockRange}} pages, depending on your plan, for only {{overageBlockPrice}} per set. The amount of pages you can accumulate varies by plan. If you need to change plans, you can upgrade your plan in the current or next billing cycle. Downgrades are effective in the next billing cycle.<\/p><br\/><p>You can view or make changes at any time on your <a href='{{hpAdminUrl}}' target='_blank'>account<\/a> page.<\/p><br\/><p>For more details, see the <a href='{{hpTermsOfService}}' target='_blank'>HP Instant Ink Terms of Service.<\/a><\/p>"
+            },
+            "faq_vw:answer:what_if_my_printing_needs_change_from_month_to_month_consumer_enroll": {
+              "translation": "<p>HP Instant Ink is flexible. If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. View this at any time on your <a href='{{hpAdminUrl}}' target='_blank'>Account<\/a> page. If you print more, you'll automatically purchase sets of {{overageBlockRange}} additional pages for {{overageBlockPrice}} (pages per set varies by plan).<\/p><br><p>From your account at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a>, you can upgrade your plan in the current billing cycle or in the next billing cycle. Downgrades are effective in the next billing cycle.<\/p><br><p>For more details, see the <a href='{{hpTermsOfService}}'  target='_blank'>HP Instant Ink Terms of Service<\/a>.<\/p>"
+            },
+            "faq_vw:answer:what_if_my_printing_needs_change_from_month_to_month_enroll": {
+              "translation": "HP Instant Ink is flexible. If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. View this at any time on your Account page. If you print more, you'll automatically purchase sets of {{overageBlockRange}} additional pages for {{overageBlockPrice}} (pages per set varies by plan).<br> <br>In your account Dashboard, you can upgrade your plan in the current billing cycle or in the next billing cycle. Downgrades are effective in the next billing cycle.<br> <br>For more details, see the <a href='{{hpTermsOfService}}' target='_blank'>HP Instant Ink Terms of Service<\/a>."
+            },
+            "faq_vw:answer:what_if_my_printing_needs_change_from_month_to_month_learn_more": {
+              "translation": "HP Instant Ink is flexible. If you do not use all your plan pages in a month, the unused pages will be kept in your account as rollover pages. The amount of pages you can accumulate varies by plan. View this at any time on your Account page. If you print more, you'll automatically purchase sets of {{overageBlockRange}} additional pages for {{overageBlockPrice}} (pages per set varies by plan).<br><br>From your account at <a href='{{hpAdminUrl}}' target='_blank'>hpinstantink.com\/users\/signin<\/a>, you can upgrade your plan in the current billing cycle or in the next billing cycle. Downgrades are effective in the next billing cycle.<br><br>For more details, see the <a href='{{hpTermsOfService}}' target='_blank'>HP Instant Ink Terms of Service<\/a>."
+            },
+            "faq_vw:answer:what_is_consolidated_billing_and_how_do_i_begin": {
+              "translation": "Consolidated billing allows you to get a single invoice, once a month, that includes your expenses for multiple printers. This is a convenient and efficient way to pay for your printing services.<br><br>You can take advantage of consolidated billing any time through your HP business account. Sign in to <a href='{{hpAdminUrl}}' target='_blank'>HP Smart Admin<\/a> and visit the billing page for more information.<br><br>Sign in to <a href='{{hpAdminUrl}}' target='_blank'>HP Smart Admin<\/a> and select \"Learn More\" to see additional information about consolidated billing."
+            },
+            "faq_vw:answer:what_is_consolidated_billing_and_how_do_i_begin_billing": {
+              "translation": "Consolidated billing allows you to get a single invoice, once a month, that includes your expenses for multiple printers. This is a convenient and efficient way to pay for your printing services. <br> <br>You can take advantage of consolidated billing any time through your HP business account. Sign in to your HP account and visit the billing page for more information. <br> <br>Sign in to your Instant Ink business account and select \"Learn More\" to see additional information about consolidated billing."
+            },
+            "faq_vw:answer:what_is_the_best_paper_plan_for_me": {
+              "translation": "We are making it easy by initially offering a matching paper plan to your ink plan. If you are signed up for a 100-page ink plan, you simply select the matching 100-page paper plan<sup>4<\/sup>. If you realize that there's a better plan that suits your needs, you simply change your ink plan level and the paper option will automatically move to that plan level. This can be done anytime<sup>2<\/sup>.<br><br>You can track how many pages you print on your Dashboard and upgrade or downgrade to any of the other plans."
+            },
+            "faq_vw:answer:what_is_the_paper_add_on_service_for_hp_instant_ink": {
+              "translation": "HP is offering a new smart paper add-on to the existing HP Instant Ink subscription service, delivering responsibly-sourced 20lb, 96 Bright HP Paper to your door before you need it<sup>1<\/sup>. Plans are based on pages printed each month, just like your Instant Ink service - simply add a matching paper plan to your ink subscription (100 paper plan for your 100 page ink plan). HP will replenish paper, one or three reams of paper at a time, based on your plan and printing habits.<br><br>Your monthly fee includes paper replenishment as needed, monitoring of your paper printing, and shipping and delivery. Plans start at {{plansPrice}}\/month. You can roll over unused pages<sup>2<\/sup>. Your plan is flexible and can be changed at any time, though it needs to match your ink plan at all times."
+            },
+            "faq_vw:answer:what_kind_of_paper_is_included_in_the_paper_addon_service": {
+              "translation": "The Paper Add-on Service uses excellent quality, sustainably-sourced 20lb 96 Bright HP Paper that’s engineered for versatility to support a wide range of everyday color printing.  This paper is designed for optimal performance when using Original HP printers and Original HP inks or toners.  In addition, it is certified by the Forest Stewardship Council®, which means that we only source the paper from responsibly managed forests to guarantee healthy growth for future generations."
+            },
+            "faq_vw:answer:what_will_my_bill_look_like_once_it_is_consolidated_billing": {
+              "translation": "Each of your current printers have their own billing cycle. After consolidating into a single bill, all your printers will have a shared billing cycle."
+            },
+            "faq_vw:answer:what_will_my_bill_look_like_once_it_is_consolidated_billing_trial": {
+              "translation": "Each of your current printers have their own billing cycle. After consolidating into a single bill, all printers will have a shared billing cycle."
+            },
+            "faq_vw:answer:when_does_billing_start_and_how_does_it_work": {
+              "translation": "<strong>For customers enrolling with a trial promotion or within 14 days during printer setup (or within 7 days for ink and personal lasers):<\/strong><br>The service will start the day you enroll, using the cartridges that were included in the box with your printer. This enables you to keep track of your page counts after you enroll, so you can make sure you are on the right page plan before your trial ends. The first billing cycle will end about 30 days after you enroll.<br><br><strong>For customers enrolling 15 days or more after printer setup (or 8 days for ink and personal lasers):<\/strong><br>You can sign up anytime. After enrollment, you will be shipped new cartridges. Your service will begin when you install one of the subscription cartridges.<br><br><strong>Ongoing billing: <\/strong><br>You will be charged each month at the end of the billing cycle when the trial is over. Since your monthly plan fee is the same every month unless you print additional pages, we will not send you a bill prior to charging your monthly fee. You can go to your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a> “Print and Payment History” section and download the invoice there. Remember to keep your printer connected to the Internet so you can get notifications about your account."
+            },
+            "faq_vw:answer:when_does_billing_start_and_how_does_it_work_consumer": {
+              "translation": "<p>For customers enrolling with a trial promotion or within 7 days during printer setup (or 14 days for business customers):<br>The service starts the day you enroll. This enables you to keep track of your page counts after you enroll, so you can make sure you are on the right page plan before your trial ends. The first billing cycle will end about 30 days after you enroll.<\/p><br><p>For customers enrolling 8 days or more after printer setup (or 15 days for business customers):<br>You can sign up anytime. After enrollment, you will be shipped new cartridges. Your service will begin when you insert one of the subscription cartridges. You will not be billed until you complete the \"Connect Printer\" step.<\/p><br><p>Ongoing billing:<br>You will be charged each month at the end of the billing cycle when the trial is over. Since your monthly plan fee is the same every month unless you print additional pages, we will not send you a bill prior to charging your monthly fee.<\/p><br><p>You can go to your Instant Ink dashboard \"Print and Payment History\" section and download invoices there. Remember to keep your printer connected to the Internet so you can get notifications about your account.<\/p>"
+            },
+            "faq_vw:answer:when_does_billing_start_and_how_does_it_work_consumer_enroll": {
+              "translation": "<p>For customers enrolling with a trial promotion or within 7 days during printer setup (or 14 days for business customers): The service starts the day you enroll. This enables you to keep track of your page counts after you enroll, so you can make sure you are on the right page plan before your trial ends. The first billing cycle will end about 30 days after you enroll.<\/p><br><p>For customers enrolling 8 days or more after printer setup (or 15 days for business customers): You can sign up anytime. After enrollment, you will be shipped new cartridges. Your service will begin when you insert one of the subscription cartridges. You will not be billed until you complete the 'Connect Printer' step.<\/p><br><p>Ongoing billing:<\/p><br><p>You will be charged each month at the end of the billing cycle when the trial is over. Since your monthly plan fee is the same every month unless you print additional pages, we will not send you a bill prior to charging your monthly fee.<\/p><br><p>You can go to your Instant Ink dashboard 'Print and Payment History' section and download invoices there. Remember to keep your printer connected to the Internet so you can get notifications about your account.<\/p>"
+            },
+            "faq_vw:answer:when_does_billing_start_and_how_does_it_work_enroll": {
+              "translation": "For customers enrolling with a free trial promotion or during printer setup:<br>The service starts the day you enroll. This enables you to keep track of your page counts after you enroll, so you can make sure you are on the right page plan before your free trial ends. The first billing cycle will end about 30 days after you enroll.<br> <br>Ongoing billing:<br>You will be charged each month at the end of the billing cycle. Since your monthly plan fee is the same every month, we will not send you a bill prior to charging your monthly fee, unless you print additional pages. If you print additional pages during your billing cycle, we will send you an email at the end of your billing cycle listing your monthly fee and the charges for any additional sets of pages you printed. Remember to keep your printer connected to the Internet so you can get notifications about your account. You can find additional information in your account Dashboard."
+            },
+            "faq_vw:answer:when_does_billing_start_and_how_does_it_work_learn_more": {
+              "translation": "For customers enrolling with a free trial promotion or during printer setup: The service starts the day you enroll. This enables you to keep track of your page counts after you enroll, so you can make sure you are on the right page plan before your free trial ends. The first billing cycle will end about 30 days after you enroll.<br><br>For customers enrolling after printer setup: Sign up anytime by selecting <strong>Sign Up Now<\/strong> at the top of this page. After enrollment, you will be shipped new cartridges. Your service will begin when you insert one of the subscription cartridges.<br><br>Online billing: You will be charged each month at the end of the billing cycle. Since your monthly plan fee is the same every month, we will not send you a bill prior to charging your monthly fee, unless you print additional pages.<br><br>If you print additional pages during your billing cycle, we will send you an email at the end of your billing cycle listing your monthly fee and the charges for any additional sets of pages you printed. Remember to keep your printer connected to the Internet so you can get notifications about your account."
+            },
+            "faq_vw:answer:when_does_my_billing_date_start_and_can_i_change_it_billing": {
+              "translation": "Your billing date starts when you register your printer for Instant Ink. HP currently does not have the option to change billing dates."
+            },
+            "faq_vw:answer:where_can_i_find_my_invoices_or_more_information_billing": {
+              "translation": "You can find your HP printer invoice or invoices, in addition to all billing details, in the billing section of your account page."
+            },
+            "faq_vw:answer:where_is_hp_instant_ink_available": {
+              "translation": "<p>HP Instant Ink is available for residents of the continental United States, Puerto Rico, Alaska, Hawaii, Canada, most European countries, some APJ countries\/regions.<\/p><br\/><p>At this time, we are sorry we can't enroll customers residing in United States territories other than Puerto Rico, or with an APO\/FPO\/DPO address.<\/p><br\/><p>Select the flag icon at the top of this page to see the complete list of supported countries\/regions.<\/p>"
+            },
+            "faq_vw:answer:where_is_hp_instant_ink_available_consumer_enroll": {
+              "translation": "<p>HP Instant Ink is available for residents of the continental United States, Puerto Rico, Alaska, Hawaii, Canada, most European countries, some APJ countries\/regions.<\/p><br><p>At this time, we are sorry we can't enroll customers residing in United States territories other than Puerto Rico, or with an APO\/FPO\/DPO address.<\/p><br><p>Select the flag icon at the top of this page to see the complete list of supported countries\/regions.<\/p>"
+            },
+            "faq_vw:answer:where_is_the_paper_add_on_service_available": {
+              "translation": "HP Instant Ink Paper Add-on Service is currently available only in the continental United States - excluding Alaska, Hawaii, US Territories, military bases, and PO Box addresses."
+            },
+            "faq_vw:answer:why_is_my_paper_monthly_fee_being_prorated": {
+              "translation": "<p>When you received your paper Welcome Kit, it arrived after your ink billing cycle had already started. <\/p><br><p>We are only charging you for your initial paper billing period from the day you receive your paper through the end of your billing cycle (not a full billing cycle\/month).  After this initial prorated paper billing period, your paper billing cycle will be the same as your ink billing cycle.<\/p>"
+            },
+            "faq_vw:answer:why_was_i_charged_but_not_get_shipment": {
+              "translation": "After your first shipment, Instant Ink cartridges are sent as needed (not monthly) based on your ink or toner usage. Keep your printer connected to Wi-Fi, so your printer can tell us to send replacement cartridges before you need them.<br><br>Instant Ink cartridges have extra ink or toner, so they last longer, and shipments may not be frequent. Check ink or toner levels on your printer screen or with the HP Smart app. Chat with the Virtual Assistant if you need to request a replacement ink or toner shipment."
+            },
+            "faq_vw:answer:why_was_i_charged_but_not_get_shipment_smb": {
+              "translation": "After your first shipment, Instant Ink cartridges are sent as needed (not monthly) based on your ink or toner usage. Keep your printer connected to Wi-Fi, so your printer can tell us to send replacement cartridges before you need them.<br><br>Instant Ink cartridges have extra ink or toner, so they last longer, and shipments may not be frequent. Check ink or toner levels on your printer screen or with the HP Smart app. Chat with the Virtual Assistant if you need to request a replacement ink or toner shipment."
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month": {
+              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your toner use.<br><br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_consumer": {
+              "translation": "<p>No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<\/p><br\/><p>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly.<\/p><br\/><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print.<\/p><br\/><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_consumer_enroll": {
+              "translation": "<p>No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<\/p><br><p>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly.<\/p><br><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print.<\/p><br><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_consumer_without_toner": {
+              "translation": "<p>No, Instant Ink subscription cartridges are not sent monthly. We send you HP Instant Ink subscription cartridges when you first sign up, and additional replacement cartridges are sent as needed based on your ink use, not on a monthly schedule. <\/p><br\/><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active Instant Ink subscription is required for these cartridges to print.<\/p><br\/><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_ink": {
+              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink use.<br> <br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_laser": {
+              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your toner use.<br> <br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
+            },
+            "faq_vw:answer:will_i_get_cartridges_every_month_learn_more": {
+              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<br><br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly<br><br>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
+            },
+            "faq_vw:answer:will_i_get_paper_every_month": {
+              "translation": "No, your HP printer anticipates when you're running out of paper and orders more when you need it<sup>1<\/sup>, but not on an established frequency."
+            },
+            "faq_vw:answer:will_my_additional_hp_services_show_up_in_my_bill_billing": {
+              "translation": "At this time, our different services will be billed separately."
+            },
+            "faq_vw:country:australia": {
+              "translation": "Australia"
+            },
+            "faq_vw:country:austria": {
+              "translation": "Austria"
+            },
+            "faq_vw:country:belgium": {
+              "translation": "Belgium"
+            },
+            "faq_vw:country:bulgaria": {
+              "translation": "Bulgaria"
+            },
+            "faq_vw:country:canada": {
+              "translation": "Canada"
+            },
+            "faq_vw:country:croatia": {
+              "translation": "Croatia"
+            },
+            "faq_vw:country:cyprus": {
+              "translation": "Cyprus"
+            },
+            "faq_vw:country:czech_republic": {
+              "translation": "Czech Republic"
+            },
+            "faq_vw:country:denmark": {
+              "translation": "Denmark"
+            },
+            "faq_vw:country:estonia": {
+              "translation": "Estonia"
+            },
+            "faq_vw:country:finland": {
+              "translation": "Finland"
+            },
+            "faq_vw:country:france": {
+              "translation": "France"
+            },
+            "faq_vw:country:germany": {
+              "translation": "Germany"
+            },
+            "faq_vw:country:greece": {
+              "translation": "Greece"
+            },
+            "faq_vw:country:hong_kong": {
+              "translation": "Hong Kong"
+            },
+            "faq_vw:country:hungary": {
+              "translation": "Hungary"
+            },
+            "faq_vw:country:ireland": {
+              "translation": "Ireland"
+            },
+            "faq_vw:country:italy": {
+              "translation": "Italy"
+            },
+            "faq_vw:country:latvia": {
+              "translation": "Latvia"
+            },
+            "faq_vw:country:lithuania": {
+              "translation": "Lithuania"
+            },
+            "faq_vw:country:luxembourg": {
+              "translation": "Luxembourg"
+            },
+            "faq_vw:country:malta": {
+              "translation": "Malta"
+            },
+            "faq_vw:country:netherlands": {
+              "translation": "Netherlands"
+            },
+            "faq_vw:country:new_zealand": {
+              "translation": "New Zealand"
+            },
+            "faq_vw:country:norway": {
+              "translation": "Norway"
+            },
+            "faq_vw:country:poland": {
+              "translation": "Poland"
+            },
+            "faq_vw:country:portugal": {
+              "translation": "Portugal"
+            },
+            "faq_vw:country:romania": {
+              "translation": "Romania"
+            },
+            "faq_vw:country:singapore": {
+              "translation": "Singapore"
+            },
+            "faq_vw:country:slovakia": {
+              "translation": "Slovakia"
+            },
+            "faq_vw:country:slovenia": {
+              "translation": "Slovenia"
+            },
+            "faq_vw:country:spain": {
+              "translation": "Spain"
+            },
+            "faq_vw:country:sweden": {
+              "translation": "Sweden"
+            },
+            "faq_vw:country:switzerland": {
+              "translation": "Switzerland"
+            },
+            "faq_vw:country:taiwan": {
+              "translation": "Taiwan"
+            },
+            "faq_vw:country:uk": {
+              "translation": "UK"
+            },
+            "faq_vw:country:us": {
+              "translation": "US"
+            },
+            "faq_vw:disclaimer:origami:based_on_plan_usage": {
+              "translation": "2) Change or cancel your plan at any time online. If you decide to cancel your HP Instant Ink plan you can go back to using HP original Standard or XL cartridges. Plan upgrades are effective immediately and the charges will be applied retrospectively or in the next billing cycle, depending on user choice. Plan downgrades and cancellations are effective after the last day of the current billing period. For full details go to <a href='{{hpTermsOfService}}' target='_blank'>instantink.hpconnected.com\/terms<\/a>."
+            },
+            "faq_vw:disclaimer:origami:hp_policy": {
+              "translation": "6. HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
+            },
+            "faq_vw:disclaimer:origami:internet_connection_required": {
+              "translation": "1) Based on plan usage, Internet connection to eligible HP printer, valid credit\/debit card, email address, and delivery service in your geographic area."
+            },
+            "faq_vw:disclaimer:origami:plan_change_cancellation": {
+              "translation": "3) HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
+            },
+            "faq_vw:disclaimer:origami:rollover_plan_sheets": {
+              "translation": "4) Your Paper Add-on service and Instant Ink plans must be the same."
+            },
+            "faq_vw:disclaimer:origami:your_paper_addon": {
+              "translation": "5. Your Paper Add-on service and Instant Ink plans must be the same."
+            },
+            "faq_vw:question:can_i_add_an_address_in_another_country_than_the_original_country_shipping": {
+              "translation": "Can I add an address in another country than the original country?",
+              "notes": "{\"order\":404,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
+            },
+            "faq_vw:question:can_i_break_up_my_printers_into_separate_bills_billing": {
+              "translation": "Can I break up my printers into separate bills?",
+              "notes": "{\"order\":307,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:can_i_cancel_or_change_my_paper_plan": {
+              "translation": "Can I cancel or change my paper plan?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:can_i_cancel_prepay_and_will_i_receive_a_refund": {
+              "translation": "Can I cancel Prepay and will I receive a refund?"
+            },
+            "faq_vw:question:can_i_change_the_address_once_it_is_entered_shipping": {
+              "translation": "Can I change the address once it is entered?",
+              "notes": "{\"order\":402,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
+            },
+            "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
+              "translation": "Can I have multiple shipping addresses in my account?",
+              "notes": "{\"order\":680,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account_shipping": {
+              "translation": "Can I have multiple shipping addresses in my account?",
+              "notes": "{\"order\":401,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
+            },
+            "faq_vw:question:can_i_prepay_for_an_additional_printer_in_my_hp_admin_account": {
+              "translation": "Can I prepay for an additional printer in my HP Admin account?",
+              "notes": "{\"order\":508,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
+              "translation": "Can I still use my subscription cartridges if I cancel the service?",
+              "notes": "{\"order\":740,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer": {
+              "translation": "Can I still use my subscription cartridges if I cancel the service?",
+              "notes": "{\"order\":930,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer_enroll": {
+              "translation": "Can I still use my subscription cartridges if I cancel the service?",
+              "notes": "{\"order\":930,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:can_i_use_the_paper_i_receive_for_non_printing_use": {
+              "translation": "Can I use the paper I receive for non-printing use?",
+              "notes": "{\"order\":250,\"programs\":[{\"name\":\"ii_paper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:can_i_use_the_paper_i_receive_from_my_paper_subscription_outside_of_my_printer": {
+              "translation": "Can I use the paper I receive from my paper subscription outside of my printer?",
+              "notes": "{\"order\":160,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:did_instant_ink_send_me_wrong_cartridges": {
+              "translation": "Did Instant Ink send me the wrong cartridges?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:did_instant_ink_send_me_wrong_cartridges_smb": {
+              "translation": "Did Instant Ink send me the wrong cartridges?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:do_you_offer_other_types_of_paper_as_part_of_the_paper_add_on_service": {
+              "translation": "Do you offer other types of paper as part of the Paper Add-on Service?",
+              "notes": "{\"order\":50,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:does_prepay_automatically_renew": {
+              "translation": "Does Prepay automatically renew?",
+              "notes": "{\"order\":503,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:does_the_tax_rate_change_if_i_move_to_a_different_state": {
+              "translation": "Does the tax rate change if I move to a different state?",
+              "notes": "{\"order\":512,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_are_pages_recorded": {
+              "translation": "How are pages recorded?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:how_are_pages_recorded_smb": {
+              "translation": "How are pages recorded?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:how_are_taxes_calculated_for_each_printer": {
+              "translation": "How are taxes calculated for each printer?",
+              "notes": "{\"order\":511,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_can_i_prepay_for_up_to_12_months": {
+              "translation": "How can I prepay for up to 12 months?"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":660,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_consumer": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":960,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_consumer_enroll": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":960,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_consumer_enroll_without_support_phone": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":960,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_enroll": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":195,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_learn_more": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":80,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:how_can_i_see_my_usage_and_billing_paper": {
+              "translation": "How can I see my usage and billing?",
+              "notes": "{\"order\":200,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_charges_occur_with_prepay": {
+              "translation": "How do additional charges occur with Prepay?",
+              "notes": "{\"order\":504,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_pages_beyond_my_plan_work": {
+              "translation": "How do additional pages beyond my plan work?",
+              "notes": "{\"order\":190,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_pages_beyond_my_plan_work_landing_page": {
+              "translation": "How do additional pages beyond my plan work?",
+              "notes": "{\"order\":700,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_pages_work": {
+              "translation": "How do additional pages work?",
+              "notes": "{\"order\":910,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_pages_work_consumer_enroll": {
+              "translation": "How do additional pages work?",
+              "notes": "{\"order\":910,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_additional_pages_work_learn_more": {
+              "translation": "How do additional pages work?",
+              "notes": "{\"order\":70,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:how_do_i_cancel_instant_ink_consumer": {
+              "translation": "How do I cancel Instant Ink?",
+              "notes": "{\"order\":826,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_cancel_instant_ink_consumer_enroll": {
+              "translation": "How do I cancel Instant Ink?",
+              "notes": "{\"order\":826,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_i_cancel_instant_ink_consumer_enroll_without_support_number": {
+              "translation": "How do I cancel Instant Ink?",
+              "notes": "{\"order\":825,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_i_cancel_instant_ink_smb": {
+              "translation": "How do I cancel Instant Ink?",
+              "notes": "{\"order\":658,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_contract_hp_instant_ink": {
+              "translation": "How do I contact HP Instant Ink?",
+              "notes": "{\"order\":220,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_enroll_my_hp_laserjet_pro_3000_4000_in_instant_ink": {
+              "translation": "How do I enroll my HP LaserJet Pro 3000 series or HP LaserJet Pro 4000 series printer in <span>HP Instant Ink?<\/span>",
+              "notes": "{\"order\":980,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_consumer_enroll": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":950,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_consumer_ink_shipment": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_consumer_landing_page": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":950,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_smb_enroll": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":770,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_smb_ink_shipment": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:how_do_i_recycle_the_subscription_cartridges_smb_landing_page": {
+              "translation": "How do I recycle the subscription cartridges?",
+              "notes": "{\"order\":770,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_sign_into_my_hp_instant_ink_account": {
+              "translation": "How do I sign into my HP Instant Ink account?",
+              "notes": "{\"order\":210,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_do_i_sign_up_for_prepay": {
+              "translation": "How do I sign up for Prepay?",
+              "notes": "{\"order\":502,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_does_hp_instant_ink_work_consumer": {
+              "translation": "How does HP Instant Ink work?",
+              "notes": "{\"order\":800,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_does_hp_instant_ink_work_consumer_enroll": {
+              "translation": "How does HP Instant Ink work?",
+              "notes": "{\"order\":800,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_does_hp_instant_ink_work_consumer_without_toner": {
+              "translation": "How does HP Instant Ink work?",
+              "notes": "{\"order\":800,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_does_instant_ink_work": {
+              "translation": "How does Instant Ink work?",
+              "notes": "{\"order\":600,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_does_instant_ink_work_learn_more": {
+              "translation": "How does Instant Ink work?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:how_does_the_paper_add_on_service_work": {
+              "translation": "How does the Paper Add-on Service work?",
+              "notes": "{\"order\":20,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:how_does_upgrading_my_printer_to_a_higher_cost_plan_affect_my_bill": {
+              "translation": "How does upgrading my printer to a higher cost plan affect my bill?",
+              "notes": "{\"order\":505,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_hp_instant_ink_work_ink": {
+              "translation": "How does HP Instant Ink work?",
+              "notes": "{\"category\":\"ink\",\"order\":110,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_hp_instant_ink_work_laser": {
+              "translation": "How does HP Instant Ink work?",
+              "notes": "{\"category\":\"laser\",\"order\":120,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:how_is_my_billing_affected_if_i_change_or_cancel_my_plan_billing": {
+              "translation": "How is my billing affected if I change or cancel my plan?",
+              "notes": "{\"order\":306,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:how_long_will_the_prepay_amount_last": {
+              "translation": "How long will the Prepay amount last?",
+              "notes": "{\"order\":507,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:how_often_do_i_receive_an_invoice_for_a_printer_subscription_with_prepay": {
+              "translation": "How often do I receive an invoice for a printer subscription with Prepay?",
+              "notes": "{\"order\":510,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:i_print_on_both_sides_of_a_sheet_of_paper_how_does_it_count_towards_my_paper_subscription": {
+              "translation": "I print on both sides of a sheet of paper. How does it count towards my paper subscription?",
+              "notes": "{\"order\":180,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:if_i_have_a_tango_printer_how_do_i_print_free_photos_from_my_smartphone_and_tablet": {
+              "translation": "If I have a Tango printer, how do I print free photos from my smartphone and tablet?",
+              "notes": "{\"order\":970,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:if_i_have_a_tango_printer_how_do_i_print_free_photos_from_my_smartphone_and_tablet_consumer_enroll": {
+              "translation": "If I have a Tango printer, how do I print free photos from my smartphone and tablet?",
+              "notes": "{\"order\":970,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:if_i_print_a_photo_or_brochure_on_specialty_paper_does_that_count_towards_my_paper_subscription": {
+              "translation": "If I print a photo or brochure on specialty paper, does that count towards my paper subscription?",
+              "notes": "{\"order\":190,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:if_i_sign_up_for_paper_addon_do_i_have_a_free_trial_period": {
+              "translation": "If I sign up for Paper Add-on, do I have a free trial period?",
+              "notes": "{\"order\":240,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:if_im_an_instant_ink_customer_where_can_i_sign_up_for_paper_add_on_service": {
+              "translation": "If I'm an Instant Ink customer, where can I sign up for Paper Add-on service?",
+              "notes": "{\"order\":230,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_my_plan_change_or_cancellation_effective_immediately": {
+              "translation": "Is my plan change or cancellation effective immediately?",
+              "notes": "{\"order\":730,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_my_plan_change_or_cancellation_effective_immediately_consumer": {
+              "translation": "Is my plan change or cancellation effective immediately?",
+              "notes": "{\"order\":920,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_my_plan_change_or_cancellation_effective_immediately_consumer_enroll": {
+              "translation": "Is my plan change or cancellation effective immediately?",
+              "notes": "{\"order\":920,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:is_my_plan_change_or_cancellation_effective_immediately_paper": {
+              "translation": "Is my plan change or cancellation effective immediately?",
+              "notes": "{\"order\":170,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_my_printer_eligible_for_HP_instant_ink": {
+              "translation": "Is my printer eligible for HP Instant Ink?",
+              "notes": "{\"order\":830,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_my_printer_eligible_for_HP_instant_ink_consumer_enroll": {
+              "translation": "Is my printer eligible for HP Instant Ink?",
+              "notes": "{\"order\":830,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:is_my_printer_eligible_for_hp_instant_ink": {
+              "translation": "Is my printer eligible for HP Instant Ink?",
+              "notes": "{\"order\":100,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_the_cost_the_same_for_photos_color_and_black_and_white_pages": {
+              "translation": "Is the cost the same for photos, color, and black and white pages?",
+              "notes": "{\"order\":940,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_the_cost_the_same_for_photos_color_and_black_and_white_pages_consumer_enroll": {
+              "translation": "Is the cost the same for photos, color, and black and white pages?",
+              "notes": "{\"order\":940,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:is_the_cost_the_same_for_photos_color_and_black_and_white_pages_without_toner": {
+              "translation": "Is the cost the same for photos, color, and black and white pages?",
+              "notes": "{\"order\":940,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:is_the_paper_in_the_paper_add_on_service_sustainable": {
+              "translation": "Is the paper in the Paper Add-on Service sustainable?",
+              "notes": "{\"order\":60,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:should_i_sign_up_for_the_paper_addon_service_if_i_still_have_paper_in_my_printer": {
+              "translation": "Should I sign up for the Paper Add-on Service if I still have paper in my printer?",
+              "notes": "{\"order\":90,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:should_i_sign_up_if_i_still_have_ink_toner": {
+              "translation": "Should I sign up if I still have ink\/toner?",
+              "notes": "{\"order\":850,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:should_i_sign_up_if_i_still_have_ink_toner_consumer_enroll": {
+              "translation": "Should I sign up if I still have ink\/toner?",
+              "notes": "{\"order\":850,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:should_i_sign_up_if_i_still_have_ink_toner_without_toner": {
+              "translation": "Should I sign up if I still have ink?",
+              "notes": "{\"order\":850,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:should_i_sign_up_if_i_still_have_toner": {
+              "translation": "Should I sign up if I still have toner?",
+              "notes": "{\"order\":760,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_are_additional_and_rollover_pages": {
+              "translation": "What are Additional Pages and Rollover Pages?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:what_are_additional_and_rollover_pages_smb": {
+              "translation": "What are Additional Pages and Rollover Pages?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:what_are_the_qualifications_for_a_trial": {
+              "translation": "What are the qualifications for a trial?",
+              "notes": "{\"order\":710,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_are_the_qualifications_for_fee_trial": {
+              "translation": "What are the qualifications for a trial?",
+              "notes": "{\"order\":840,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_are_the_qualifications_for_fee_trial_consumer_enroll": {
+              "translation": "What are the qualifications for a trial?",
+              "notes": "{\"order\":840,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_counts_as_a_printed_page": {
+              "translation": "What counts as a printed page?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:what_counts_as_a_printed_page_smb": {
+              "translation": "What counts as a printed page?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"print_history\"]}]}"
+            },
+            "faq_vw:question:what_do_i_need_to_enroll": {
+              "translation": "What do I need to enroll?",
+              "notes": "{\"order\":620,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_do_i_need_to_enroll_consumer": {
+              "translation": "What are the requirements for HP Instant Ink?",
+              "notes": "{\"order\":820,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_do_i_need_to_enroll_consumer_enroll": {
+              "translation": "What are the requirements for HP Instant Ink?",
+              "notes": "{\"order\":820,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_do_i_need_to_enroll_paper": {
+              "translation": "What are the requirements for HP Instant Ink?",
+              "notes": "{\"order\":80,\"programs\":[{\"name\":\"ii_paper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_does_my_monthly_payment_include": {
+              "translation": "What does my monthly payment include?",
+              "notes": "{\"order\":20,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"print_history\", \"ink_shipment\"]}]}\n"
+            },
+            "faq_vw:question:what_does_my_monthly_payment_include_smb": {
+              "translation": "What does my monthly payment include?",
+              "notes": "{\"order\":20,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"print_history\", \"ink_shipment\"]}]}\n"
+            },
+            "faq_vw:question:what_happens_if_i_do_not_use_all_my_pages": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":180,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_do_not_use_all_my_pages_learn_more": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":60,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_dont_use_all_my_pages": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":720,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_dont_use_all_my_pages_consumer": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":900,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_dont_use_all_my_pages_consumer_enroll": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":900,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_dont_use_all_my_pages_consumer_without_toner": {
+              "translation": "What happens if I don't use all my pages?",
+              "notes": "{\"order\":900,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_i_dont_use_all_my_paper_pages": {
+              "translation": "What happens if I don't use all my paper pages?",
+              "notes": "{\"order\":140,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_happens_if_my_printing_needs_to_change_from_month_to_month": {
+              "translation": "What happens if my printing needs to change from month to month?",
+              "notes": "{\"order\":130,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_happens_to_my_bill_if_i_downgrade_to_a_less_expensive_plan": {
+              "translation": "What happens to my bill if I downgrade to a less expensive plan?",
+              "notes": "{\"order\":506,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
+            },
+            "faq_vw:question:what_if_i_add_another_new_hp_printer_billing": {
+              "translation": "What if I add another new HP printer?",
+              "notes": "{\"category\":\"standard\",\"order\":305,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:what_if_i_add_another_new_hp_printer_billing_trial": {
+              "translation": "What if I add another new HP printer?",
+              "notes": "{\"category\":\"trial\",\"order\":305,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:what_if_i_change_my_address_to_somewhere_with_a_different_tax_rate_shipping": {
+              "translation": "What if I change my address to somewhere with a different tax rate?",
+              "notes": "{\"order\":403,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
+            },
+            "faq_vw:question:what_if_i_do_not_know_how_many_pages_i_print": {
+              "translation": "What if I don't know how many pages I print?",
+              "notes": "{\"order\":655,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_if_i_do_not_know_how_many_pages_i_print_enroll": {
+              "translation": "What if I don't know how many pages I print?",
+              "notes": "{\"order\":160,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_if_i_do_not_know_how_many_pages_i_print_learn_more": {
+              "translation": "What if I don't know how many pages I print?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:what_if_i_dont_know_how_many_pages_i_print": {
+              "translation": "What if I don't know how many pages I print?",
+              "notes": "{\"order\":880,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_if_i_dont_know_how_many_pages_i_print_consumer_enroll": {
+              "translation": "What if I don't know how many pages I print?",
+              "notes": "{\"order\":880,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_if_i_need_to_print_more_pages_than_my_monthly_plan": {
+              "translation": "What if I need to print more pages than my monthly plan?",
+              "notes": "{\"order\":150,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_if_my_printing_needs_change_from_month_to_month": {
+              "translation": "What if my printing needs change from month to month?",
+              "notes": "{\"order\":690,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_if_my_printing_needs_change_from_month_to_month_consumer": {
+              "translation": "What if my printing needs change from month to month?",
+              "notes": "{\"order\":890,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_if_my_printing_needs_change_from_month_to_month_consumer_enroll": {
+              "translation": "What if my printing needs change from month to month?",
+              "notes": "{\"order\":890,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_if_my_printing_needs_change_from_month_to_month_enroll": {
+              "translation": "What if my printing needs change from month to month?",
+              "notes": "{\"order\":170,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:what_if_my_printing_needs_change_from_month_to_month_learn_more": {
+              "translation": "What if my printing needs change from month to month?",
+              "notes": "{\"order\":50,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:what_is_consolidated_billing_and_how_do_i_begin": {
+              "translation": "What is consolidated billing and how do I begin?",
+              "notes": "{\"order\":670,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_is_consolidated_billing_and_how_do_i_begin_billing": {
+              "translation": "What is consolidated billing and how do I begin?",
+              "notes": "{\"order\":301,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:what_is_the_best_paper_plan_for_me": {
+              "translation": "What is the best paper plan for me?",
+              "notes": "{\"order\":120,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_is_the_paper_add_on_service_for_hp_instant_ink": {
+              "translation": "What is the Paper Add-on Service for HP Instant Ink?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_kind_of_paper_is_included_in_the_paper_addon_service": {
+              "translation": "What kind of paper is included in the Paper Add-on Service?",
+              "notes": "{\"order\":40,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:what_will_my_bill_look_like_once_it_is_consolidated_billing": {
+              "translation": "What will my bill look like once it's consolidated?",
+              "notes": "{\"category\":\"standard\",\"order\":303,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:what_will_my_bill_look_like_once_it_is_consolidated_billing_trial": {
+              "translation": "What will my bill look like once it's consolidated?",
+              "notes": "{\"category\":\"trial\",\"order\":303,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:when_does_billing_start_and_how_does_it_work": {
+              "translation": "When does billing start and how does it work?",
+              "notes": "{\"order\":640,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:when_does_billing_start_and_how_does_it_work_consumer": {
+              "translation": "When does billing start and how does it work?",
+              "notes": "{\"order\":870,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:when_does_billing_start_and_how_does_it_work_consumer_enroll": {
+              "translation": "When does billing start and how does it work?",
+              "notes": "{\"order\":870,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:when_does_billing_start_and_how_does_it_work_enroll": {
+              "translation": "When does billing start and how does it work?",
+              "notes": "{\"order\":150,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:when_does_billing_start_and_how_does_it_work_learn_more": {
+              "translation": "When does billing start and how does it work?",
+              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:when_does_my_billing_date_start_and_can_i_change_it_billing": {
+              "translation": "When does my billing date start and can I change it?",
+              "notes": "{\"order\":304,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:where_can_i_find_my_invoices_or_more_information_billing": {
+              "translation": "Where can I find my invoices or more information?",
+              "notes": "{\"order\":308,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:question:where_is_hp_instant_ink_available": {
+              "translation": "Where is HP Instant Ink available?",
+              "notes": "{\"order\":810,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:where_is_hp_instant_ink_available_consumer_enroll": {
+              "translation": "Where is HP Instant Ink available?",
+              "notes": "{\"order\":810,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:where_is_the_paper_add_on_service_available": {
+              "translation": "Where is the Paper Add-on Service available?",
+              "notes": "{\"order\":70,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:why_is_my_paper_monthly_fee_being_prorated": {
+              "translation": "Why is my paper monthly fee being prorated?",
+              "notes": "{\"order\":260,\"programs\":[{\"name\":\"ii_paper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:why_was_i_charged_but_not_get_shipment": {
+              "translation": "Why was I charged but did not get a shipment?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:why_was_i_charged_but_not_get_shipment_smb": {
+              "translation": "Why was I charged but did not get a shipment?",
+              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"ink_shipment\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"order\":630,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_consumer": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_consumer_enroll": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_consumer_without_toner": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_ink": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"category\":\"ink\",\"order\":130,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_laser": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"category\":\"laser\",\"order\":140,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
+            },
+            "faq_vw:question:will_i_get_cartridges_every_month_learn_more": {
+              "translation": "Will I get cartridges every month?",
+              "notes": "{\"order\":20,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
+            },
+            "faq_vw:question:will_i_get_paper_every_month": {
+              "translation": "Will I get paper every month?",
+              "notes": "{\"order\":110,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
+            },
+            "faq_vw:question:will_my_additional_hp_services_show_up_in_my_bill_billing": {
+              "translation": "Will my additional HP services show up in my bill?",
+              "notes": "{\"category\":\"standard\",\"order\":309,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
+            },
+            "faq_vw:section:consolidated_billing": {
+              "translation": "Consolidated Billing",
+              "notes": "{\"order\":2,\"descriptionKey\":\"faq_vw:section:consolidated_billing:description\"}"
+            },
+            "faq_vw:section:consolidated_billing:description": {
+              "translation": "Learn about consolidating multiple printers into one Instant Ink bill each month."
+            },
+            "faq_vw:section:general_instant_ink": {
+              "translation": "General Instant Ink",
+              "notes": "{\"order\":1,\"descriptionKey\":\"faq_vw:section:general_instant_ink:description\"}"
+            },
+            "faq_vw:section:general_instant_ink:description": {
+              "translation": "Learn about plan options, using rollover or additional pages, and cartridge shipments."
+            },
+            "faq_vw:section:multiple_shipping_addresses": {
+              "translation": "Multiple Shipping Addresses",
+              "notes": "{\"order\":3,\"descriptionKey\":\"faq_vw:section:multiple_shipping_addresses:description\"}"
+            },
+            "faq_vw:section:multiple_shipping_addresses:description": {
+              "translation": "Learn about shipping Instant Ink replacement supplies to multiple addresses."
+            },
+            "faq_vw:section:prepay": {
+              "translation": "Prepay",
+              "notes": "{\"order\":4,\"descriptionKey\":\"faq_vw:section:prepay:description\"}"
+            },
+            "faq_vw:section:prepay:description": {
+              "translation": "Learn about getting additional savings when you prepay for Instant Ink."
+            },
+            "faq_vw:support_phone": {
+              "translation": "1-855-785-2777"
+            },
+            "faq_vw:table:header:country_name": {
+              "translation": "Country Name"
+            },
+            "faq_vw:table:header:ink_recycling": {
+              "translation": "Ink Recycling"
+            },
+            "faq_vw:table:header:toner_recycling": {
+              "translation": "Toner Recycling"
+            },
+            "faq_vw:title:frequently_asked_questions": {
+              "translation": "Frequently Asked Questions"
+            }
+          }
+    ]    
 }
