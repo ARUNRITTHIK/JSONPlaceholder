@@ -1,56 +1,60 @@
-{
-    "en_us": [
-        {
-            
-            "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account": {
-              "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printer.<br><br>Based on the address you provided during the printer setup or from your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it."
-            },
-            "faq_vw:country:us": {
-              "translation": "US"
-            },
-            "faq_vw:disclaimer:origami:based_on_plan_usage": {
-              "translation": "2) Change or cancel your plan at any time online. If you decide to cancel your HP Instant Ink plan you can go back to using HP original Standard or XL cartridges. Plan upgrades are effective immediately and the charges will be applied retrospectively or in the next billing cycle, depending on user choice. Plan downgrades and cancellations are effective after the last day of the current billing period. For full details go to <a href='{{hpTermsOfService}}' target='_blank'>instantink.hpconnected.com\/terms<\/a>."
-            },
-            "faq_vw:disclaimer:origami:hp_policy": {
-              "translation": "6. HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
-            },
-            "faq_vw:disclaimer:origami:internet_connection_required": {
-              "translation": "1) Based on plan usage, Internet connection to eligible HP printer, valid credit\/debit card, email address, and delivery service in your geographic area."
-            },
-            "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
-              "translation": "Can I have multiple shipping addresses in my account?",
-              "notes": "{\"order\":680,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:section:consolidated_billing": {
-              "translation": "Consolidated Billing",
-              "notes": "{\"order\":2,\"descriptionKey\":\"faq_vw:section:consolidated_billing:description\"}"
-            },
-            "faq_vw:section:consolidated_billing:description": {
-              "translation": "Learn about consolidating multiple printers into one Instant Ink bill each month."
-            },
-            "faq_vw:section:general_instant_ink": {
-              "translation": "General Instant Ink",
-              "notes": "{\"order\":1,\"descriptionKey\":\"faq_vw:section:general_instant_ink:description\"}"
-            },
-            "faq_vw:section:general_instant_ink:description": {
-              "translation": "Learn about plan options, using rollover or additional pages, and cartridge shipments."
-            },
-            "faq_vw:section:multiple_shipping_addresses": {
-              "translation": "Multiple Shipping Addresses",
-              "notes": "{\"order\":3,\"descriptionKey\":\"faq_vw:section:multiple_shipping_addresses:description\"}"
-            },
-            "faq_vw:section:multiple_shipping_addresses:description": {
-              "translation": "Learn about shipping Instant Ink replacement supplies to multiple addresses."
-            },
-            "faq_vw:support_phone": {
-              "translation": "1-855-785-2777"
-            },
-            "faq_vw:table:header:country_name": {
-              "translation": "Country Name"
-            },
-            "faq_vw:title:frequently_asked_questions": {
-              "translation": "Frequently Asked Questions"
-            }
-          }
-    ]    
+{           
+    "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account": {
+        "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printer.<br><br>Based on the address you provided during the printer setup or from your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it."
+    },
+    "faq_vw:country:us": {
+        "translation": "US"
+    },
+    "faq_vw:disclaimer:origami:based_on_plan_usage": {
+        "translation": "2) Change or cancel your plan at any time online. If you decide to cancel your HP Instant Ink plan you can go back to using HP original Standard or XL cartridges. Plan upgrades are effective immediately and the charges will be applied retrospectively or in the next billing cycle, depending on user choice. Plan downgrades and cancellations are effective after the last day of the current billing period. For full details go to <a href='{{hpTermsOfService}}' target='_blank'>instantink.hpconnected.com\/terms<\/a>."
+      },
+      "faq_vw:disclaimer:origami:hp_policy": {
+        "translation": "6. HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
+      },
+      "faq_vw:disclaimer:origami:internet_connection_required": {
+        "translation": "1) Based on plan usage, Internet connection to eligible HP printer, valid credit\/debit card, email address, and delivery service in your geographic area."
+      },
+      "faq_vw:disclaimer:origami:plan_change_cancellation": {
+        "translation": "3) HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
+      },
+      "faq_vw:disclaimer:origami:rollover_plan_sheets": {
+        "translation": "4) Your Paper Add-on service and Instant Ink plans must be the same."
+      },
+      "faq_vw:disclaimer:origami:your_paper_addon": {
+        "translation": "5. Your Paper Add-on service and Instant Ink plans must be the same."
+      },
+    "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
+        "translation": "Can I have multiple shipping addresses in my account?",
+        "notes": "{\"order\":680,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
+    },
+    "faq_vw:section:consolidated_billing": {
+        "translation": "Consolidated Billing",
+        "notes": "{\"order\":2,\"descriptionKey\":\"faq_vw:section:consolidated_billing:description\"}"
+    },
+    "faq_vw:section:consolidated_billing:description": {
+        "translation": "Learn about consolidating multiple printers into one Instant Ink bill each month."
+    },
+    "faq_vw:section:general_instant_ink": {
+        "translation": "General Instant Ink",
+        "notes": "{\"order\":1,\"descriptionKey\":\"faq_vw:section:general_instant_ink:description\"}"
+    },
+    "faq_vw:section:general_instant_ink:description": {
+        "translation": "Learn about plan options, using rollover or additional pages, and cartridge shipments."
+    },
+    "faq_vw:section:multiple_shipping_addresses": {
+        "translation": "Multiple Shipping Addresses",
+        "notes": "{\"order\":3,\"descriptionKey\":\"faq_vw:section:multiple_shipping_addresses:description\"}"
+    },
+    "faq_vw:section:multiple_shipping_addresses:description": {
+        "translation": "Learn about shipping Instant Ink replacement supplies to multiple addresses."
+    },
+    "faq_vw:support_phone": {
+        "translation": "1-855-785-2777"
+    },
+    "faq_vw:table:header:country_name": {
+        "translation": "Country Name"
+    },
+    "faq_vw:title:frequently_asked_questions": {
+        "translation": "Frequently Asked Questions"
+    }   
 }
