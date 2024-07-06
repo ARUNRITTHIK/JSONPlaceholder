@@ -70,21 +70,11 @@
             "faq_vw:section:multiple_shipping_addresses:description": {
               "translation": "Learn about shipping Instant Ink replacement supplies to multiple addresses."
             },
-            "faq_vw:section:prepay": {
-              "translation": "Prepay",
-              "notes": "{\"order\":4,\"descriptionKey\":\"faq_vw:section:prepay:description\"}"
-            },
-            "faq_vw:section:prepay:description": {
-              "translation": "Learn about getting additional savings when you prepay for Instant Ink."
-            },
             "faq_vw:support_phone": {
               "translation": "1-855-785-2777"
             },
             "faq_vw:table:header:country_name": {
               "translation": "Country Name"
-            },
-            "faq_vw:table:header:ink_recycling": {
-              "translation": "Ink Recycling"
             },
             "faq_vw:title:frequently_asked_questions": {
               "translation": "Frequently Asked Questions"
