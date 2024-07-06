@@ -16,12 +16,6 @@
             "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer": {
               "translation": "<p>If you cancel Instant Ink on your printer, the HP Instant Ink subscription cartridges provided with your subscription will stop working in your printer even if they are not empty. You will have to replace all of them with traditional cartridges.<\/p>"
             },
-            "faq_vw:answer:can_i_use_the_paper_i_receive_for_non_printing_use": {
-              "translation": "No. The paper we send you is for printing purposes only.  If you need extra paper for personal use (i.e. for usage other than printing), you can purchase additional sets of {{lowestAdditionalSheetsQty}} sheets for {{lowestAdditionalSheetsPrice}}\/set, up to {{highestAdditionalSheetsQty}} sheets ({{additionalSheetsSetPages}} sets) per month in the Instant Ink dashboard.  You can change the number of additional sets you order throughout your billing cycle, up to {{maxAddons}} times per billing period.  These sheets will not count towards your printing plan, so we recommend that you pull these extra sheets out on a monthly out of the ream(s) we have sent you.  This will allow you to track what you use outside your printer and be able to adjust what you need.  We will attempt to take this into consideration to help ensure we continue to replenish your subscription paper on time. If you use sheets outside the printer without additional purchases, you run the risk of running out of Paper prior to the end of your billing cycle and HP does not guarantee that it will replenish your Plan prior to running out."
-            },
-            "faq_vw:answer:can_i_use_the_paper_i_receive_from_my_paper_subscription_outside_of_my_printer": {
-              "translation": "No. Your HP Instant Ink-subscribed printer will monitor your printing and let HP know when to ship you a replenishment kit before you need it. If you use the paper we send you for any other purpose other than printing in your subscribed printer, you run the risk of running out of paper without HP knowing. You are responsible for purchasing additional paper to use for any purpose other than printing in your subscribed printer."
-            },
             "faq_vw:country:us": {
               "translation": "US"
             },
@@ -54,14 +48,6 @@
             "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
               "translation": "Can I have multiple shipping addresses in my account?",
               "notes": "{\"order\":680,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
-              "translation": "Can I still use my subscription cartridges if I cancel the service?",
-              "notes": "{\"order\":740,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer": {
-              "translation": "Can I still use my subscription cartridges if I cancel the service?",
-              "notes": "{\"order\":930,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
             },
             "faq_vw:section:consolidated_billing": {
               "translation": "Consolidated Billing",
