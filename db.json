@@ -1,20 +1,9 @@
 {
     "en_us": [
         {
-            "faq_vw:answer:can_i_cancel_or_change_my_paper_plan": {
-              "translation": "Don't worry if your printing needs to change, you can easily change or cancel your paper plan anytime<sup>2<\/sup> without additional fees; however your paper plan must always match your ink plan level (100 pages of paper for your 100-page ink plan<sup>4<\/sup>).  Cancelling your paper plan will not affect your ink plan; however, if you cancel your ink plan, it will automatically cancel your paper plan."
-            },
-            "faq_vw:answer:can_i_change_the_address_once_it_is_entered_shipping": {
-              "translation": "You can update or change shipping addresses in your account dashboard. Please note that if a shipment has already shipped prior to an update, it will be delivered to the previous address on file."
-            },
+            
             "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account": {
               "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printer.<br><br>Based on the address you provided during the printer setup or from your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it."
-            },
-            "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
-              "translation": "From the moment you install the first service cartridges received with your Welcome Kit, all following cartridges received will be subscription cartridges.<br><br>If you cancel the service, even if the subscription cartridges provided with your subscription are not empty, they will stop working in your printer and you will have to replace all of them with standard cartridges."
-            },
-            "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service_consumer": {
-              "translation": "<p>If you cancel Instant Ink on your printer, the HP Instant Ink subscription cartridges provided with your subscription will stop working in your printer even if they are not empty. You will have to replace all of them with traditional cartridges.<\/p>"
             },
             "faq_vw:country:us": {
               "translation": "US"
@@ -27,23 +16,6 @@
             },
             "faq_vw:disclaimer:origami:internet_connection_required": {
               "translation": "1) Based on plan usage, Internet connection to eligible HP printer, valid credit\/debit card, email address, and delivery service in your geographic area."
-            },
-            "faq_vw:disclaimer:origami:plan_change_cancellation": {
-              "translation": "3) HP’s policy is to use fiber from responsibly managed forests, and HP has a preference for offering Forest Steward Council® (FSC®)-certified papers. HP trademark license code FSC®-C017543, see fsc.org. Not all FSC®-certified products are available in all regions, look for logo on pack."
-            },
-            "faq_vw:disclaimer:origami:rollover_plan_sheets": {
-              "translation": "4) Your Paper Add-on service and Instant Ink plans must be the same."
-            },
-            "faq_vw:disclaimer:origami:your_paper_addon": {
-              "translation": "5. Your Paper Add-on service and Instant Ink plans must be the same."
-            },
-            "faq_vw:question:can_i_cancel_or_change_my_paper_plan": {
-              "translation": "Can I cancel or change my paper plan?",
-              "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:can_i_change_the_address_once_it_is_entered_shipping": {
-              "translation": "Can I change the address once it is entered?",
-              "notes": "{\"order\":402,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
             },
             "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
               "translation": "Can I have multiple shipping addresses in my account?",
