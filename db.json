@@ -4,26 +4,14 @@
             "faq_vw:answer:can_i_add_an_address_in_another_country_than_the_original_country_shipping": {
               "translation": "At this time, all addresses must be within the same country as the original address in your HP account. For example, if the account was created with a shipping address in the United States, all additional shipping addresses must also be within the United States."
             },
-            "faq_vw:answer:can_i_break_up_my_printers_into_separate_bills_billing": {
-              "translation": "Yes, you can. To move a printer into a separate bill, unclaim the printer to your account and create a brand new HP account. Add the printer to that new account. After doing this, a different invoice will be created for this printer, with an independent billing cycle."
-            },
             "faq_vw:answer:can_i_cancel_or_change_my_paper_plan": {
               "translation": "Don't worry if your printing needs to change, you can easily change or cancel your paper plan anytime<sup>2<\/sup> without additional fees; however your paper plan must always match your ink plan level (100 pages of paper for your 100-page ink plan<sup>4<\/sup>).  Cancelling your paper plan will not affect your ink plan; however, if you cancel your ink plan, it will automatically cancel your paper plan."
-            },
-            "faq_vw:answer:can_i_cancel_prepay_and_will_i_receive_a_refund": {
-              "translation": "Yes, you can cancel Prepay. If you cancel Prepay, your remaining Prepay balance will be used for the services for your printer until it's fully depleted, before charges are billed to your credit card or other payment methods on file.  <br> <br>Unused portions of your Prepay balance may be refunded. You have the option to transfer the unused balance to a new Printer Subscription in your Service Account, or receive a refund, less any applicable discounts. For any questions, call HP Customer Support."
             },
             "faq_vw:answer:can_i_change_the_address_once_it_is_entered_shipping": {
               "translation": "You can update or change shipping addresses in your account dashboard. Please note that if a shipment has already shipped prior to an update, it will be delivered to the previous address on file."
             },
             "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account": {
               "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printer.<br><br>Based on the address you provided during the printer setup or from your <a href='{{hpAdminUrl}}' target='_blank'>account dashboard<\/a>, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it."
-            },
-            "faq_vw:answer:can_i_have_multiple_shipping_addresses_in_my_account_shipping": {
-              "translation": "Within your HP business account, you can manage multiple printers at multiple locations, with their own shipping addresses per each subscribed printers.<br><br>Based on the address you provided during the printer setup or from your account Dashboard, each printer knows when it's running low, and the cartridge can ship to the individual printer address before you need it.<br>"
-            },
-            "faq_vw:answer:can_i_prepay_for_an_additional_printer_in_my_hp_admin_account": {
-              "translation": "Yes, you can prepay for an additional printer in your HP Admin dashboard. Your Prepay amount will be calculated based on the plan you choose for the specific printer. Prepay is for a specific printer subscription, so you can’t cover charges for a different printer, using the prepaid balance from another printer, even within the same Admin account."
             },
             "faq_vw:answer:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
               "translation": "From the moment you install the first service cartridges received with your Welcome Kit, all following cartridges received will be subscription cartridges.<br><br>If you cancel the service, even if the subscription cartridges provided with your subscription are not empty, they will stop working in your printer and you will have to replace all of them with standard cartridges."
@@ -410,36 +398,6 @@
             "faq_vw:answer:why_was_i_charged_but_not_get_shipment": {
               "translation": "After your first shipment, Instant Ink cartridges are sent as needed (not monthly) based on your ink or toner usage. Keep your printer connected to Wi-Fi, so your printer can tell us to send replacement cartridges before you need them.<br><br>Instant Ink cartridges have extra ink or toner, so they last longer, and shipments may not be frequent. Check ink or toner levels on your printer screen or with the HP Smart app. Chat with the Virtual Assistant if you need to request a replacement ink or toner shipment."
             },
-            "faq_vw:answer:why_was_i_charged_but_not_get_shipment_smb": {
-              "translation": "After your first shipment, Instant Ink cartridges are sent as needed (not monthly) based on your ink or toner usage. Keep your printer connected to Wi-Fi, so your printer can tell us to send replacement cartridges before you need them.<br><br>Instant Ink cartridges have extra ink or toner, so they last longer, and shipments may not be frequent. Check ink or toner levels on your printer screen or with the HP Smart app. Chat with the Virtual Assistant if you need to request a replacement ink or toner shipment."
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month": {
-              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your toner use.<br><br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_consumer": {
-              "translation": "<p>No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<\/p><br\/><p>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly.<\/p><br\/><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print.<\/p><br\/><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_consumer_enroll": {
-              "translation": "<p>No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<\/p><br><p>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly.<\/p><br><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print.<\/p><br><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_consumer_without_toner": {
-              "translation": "<p>No, Instant Ink subscription cartridges are not sent monthly. We send you HP Instant Ink subscription cartridges when you first sign up, and additional replacement cartridges are sent as needed based on your ink use, not on a monthly schedule. <\/p><br\/><p>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active Instant Ink subscription is required for these cartridges to print.<\/p><br\/><p>If you’re enrolled in Instant Ink, make sure to use the subscription cartridges that are shipped to you. We will not know when to send replacement cartridges if you use other cartridges.<\/p>"
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_ink": {
-              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink use.<br> <br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_laser": {
-              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your toner use.<br> <br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
-            },
-            "faq_vw:answer:will_i_get_cartridges_every_month_learn_more": {
-              "translation": "No, cartridges are not sent by the month. You will only receive cartridges when your printer tells us you need them, based on your ink or toner use.<br><br>We send you HP Instant Ink subscription cartridges when you first sign up and additional replacement cartridges are sent as needed, not monthly<br><br>The subscription cartridges are high capacity, so most customers don't require frequent shipments. You must keep your printer connected to the Internet and your shipping address and payment method up to date to avoid service interruptions. An active subscription is required for these cartridges to print."
-            },
-            "faq_vw:answer:will_i_get_paper_every_month": {
-              "translation": "No, your HP printer anticipates when you're running out of paper and orders more when you need it<sup>1<\/sup>, but not on an established frequency."
-            },
-            "faq_vw:answer:will_my_additional_hp_services_show_up_in_my_bill_billing": {
-              "translation": "At this time, our different services will be billed separately."
-            },
             "faq_vw:country:australia": {
               "translation": "Australia"
             },
@@ -573,16 +531,9 @@
               "translation": "Can I add an address in another country than the original country?",
               "notes": "{\"order\":404,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
             },
-            "faq_vw:question:can_i_break_up_my_printers_into_separate_bills_billing": {
-              "translation": "Can I break up my printers into separate bills?",
-              "notes": "{\"order\":307,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
-            },
             "faq_vw:question:can_i_cancel_or_change_my_paper_plan": {
               "translation": "Can I cancel or change my paper plan?",
               "notes": "{\"order\":30,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:can_i_cancel_prepay_and_will_i_receive_a_refund": {
-              "translation": "Can I cancel Prepay and will I receive a refund?"
             },
             "faq_vw:question:can_i_change_the_address_once_it_is_entered_shipping": {
               "translation": "Can I change the address once it is entered?",
@@ -591,14 +542,6 @@
             "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account": {
               "translation": "Can I have multiple shipping addresses in my account?",
               "notes": "{\"order\":680,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:can_i_have_multiple_shipping_addresses_in_my_account_shipping": {
-              "translation": "Can I have multiple shipping addresses in my account?",
-              "notes": "{\"order\":401,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:multiple_shipping_addresses\",\"subsets\":[\"shipping\"]}]}"
-            },
-            "faq_vw:question:can_i_prepay_for_an_additional_printer_in_my_hp_admin_account": {
-              "translation": "Can I prepay for an additional printer in my HP Admin account?",
-              "notes": "{\"order\":508,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:prepay\",\"subsets\":[\"prepay\"]}]}"
             },
             "faq_vw:question:can_i_still_use_my_subscription_cartridges_if_i_cancel_the_service": {
               "translation": "Can I still use my subscription cartridges if I cancel the service?",
@@ -1118,46 +1061,6 @@
             "faq_vw:question:why_was_i_charged_but_not_get_shipment": {
               "translation": "Why was I charged but did not get a shipment?",
               "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"ink_shipment\"]}]}"
-            },
-            "faq_vw:question:why_was_i_charged_but_not_get_shipment_smb": {
-              "translation": "Why was I charged but did not get a shipment?",
-              "notes": "{\"order\":10,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"ink_shipment\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"order\":630,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_consumer": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_consumer_enroll": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"enroll\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_consumer_without_toner": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"order\":860,\"programs\":[{\"name\":\"ii_consumer\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_ink": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"category\":\"ink\",\"order\":130,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_laser": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"category\":\"laser\",\"order\":140,\"programs\":[{\"name\":\"ii_smb\",\"subsets\":[\"enroll\"]}]}"
-            },
-            "faq_vw:question:will_i_get_cartridges_every_month_learn_more": {
-              "translation": "Will I get cartridges every month?",
-              "notes": "{\"order\":20,\"programs\":[{\"name\":\"ii_flip\",\"subsets\":[\"learn_more\"]}]}"
-            },
-            "faq_vw:question:will_i_get_paper_every_month": {
-              "translation": "Will I get paper every month?",
-              "notes": "{\"order\":110,\"programs\":[{\"name\":\"ii_paper\",\"disclaimer\":\"instantPaper\",\"subsets\":[\"landing_page\"]}]}"
-            },
-            "faq_vw:question:will_my_additional_hp_services_show_up_in_my_bill_billing": {
-              "translation": "Will my additional HP services show up in my bill?",
-              "notes": "{\"category\":\"standard\",\"order\":309,\"programs\":[{\"name\":\"ii_smb\",\"section\":\"faq_vw:section:consolidated_billing\",\"subsets\":[\"billing\"]}]}"
             },
             "faq_vw:section:consolidated_billing": {
               "translation": "Consolidated Billing",
